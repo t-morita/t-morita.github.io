@@ -1,6 +1,6 @@
 ---
 layout: ja_page
 ja_title: ニュース
-permalink: /news/
+permalink: /ja/news/
 ---
 under construction

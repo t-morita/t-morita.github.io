@@ -1,6 +1,6 @@
 ---
 layout: ja_default
 ja_title: ホーム
-permalink: /
+permalink: /ja/
 ---
 Under Construction

@@ -1,6 +1,6 @@
 ---
 layout: ja_page
 ja_title: ソフトウェア
-permalink: /software/
+permalink: /ja/software/
 ---
 under construction

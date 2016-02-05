@@ -13,7 +13,3 @@ description: Under Construction
 
 # Build settings
 markdown: kramdown
-
-gems:           ['jekyll-paginate', 'jekyll-multiple-languages']
-languages:          ['en', 'ja']
-language_default:   'en'
