@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 36px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
@@ -162,13 +162,18 @@
     }
 }
 
-
+ol li{
+	border-bottom-style: dotted;
+	border-width: 1px;
+	padding: 0.5em;
+}
 
 /**
  * Page content
  */
 .page-content {
     padding: $spacing-unit 0;
+
 }
 
 .page-heading {
@@ -204,39 +209,82 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 30px;
     letter-spacing: -1px;
     line-height: 1;
+    padding: 0.3em 0.5em;
+    color: white;
+    background-color: $brand-color;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 28px;
     }
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
 
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
+    h1 {
+      	font-size: 24px;
+    	line-height: 150%;
+    	border-style: solid;
+    	border-width: 0 0 0.08em 0;
+        margin-top: 0.5em;
+    	margin-bottom: 0.5em;    
+        color: $brand-color;
+         @include media-query($on-laptop) {
             font-size: 22px;
         }
     }
 
-    h4 {
+    h2 {
         font-size: 20px;
-
+        line-height: 150%;
+        margin-top: 0.5em;
+    	margin-bottom: 0.5em;
+    	border-style: solid;
+    	border-color: gray;
+    	border-width: 0 0 0.05em 0;
         @include media-query($on-laptop) {
             font-size: 18px;
         }
     }
+
+    h3 {
+        font-size: 18px;
+        line-height: 100%;
+    	margin-bottom: 0em;
+    	margin-left: 0.5em;
+        @include media-query($on-laptop) {
+            font-size: 16px;
+        }
+    }
+
+    h4 {
+        font-size: 16px;
+
+        @include media-query($on-laptop) {
+            font-size: 14px;
+        }
+    }
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    width: 25%;
+    padding: 6px;
+    text-align: left;
+    vertical-align: top;
+    color: #333;
+    background-color: #eee;
+    border: 1px solid #b9b9b9;
+}
+td{
+    padding: 6px;
+    background-color: #fff;
+    border: 1px solid #b9b9b9;
 }

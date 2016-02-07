@@ -1,6 +1,19 @@
 ---
-layout: default
+layout: home_page
 title: Home
 permalink: /
 ---
-Under Construction
+
+Takeshi Morita is an Assistant Professor at the Faculty of Science and Technology at Keio University. He received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. He received his Ph.D. in Engineering from Keio University in 2008. His research interests include Ontology Engineering and Semantic Web. He is a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
+
+# Personal Links
+* [Google Scholar Citation](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
+* [DBLP](http://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
+* [GitHub](https://github.com/t-morita)
+* [SlideShare](http://www.slideshare.net/takeshimorita)
+* [researchmap](http://researchmap.jp/t_morita/)
+
+# Contact
+
+|Office address  | Department of Administration Engineering, Faculty of Science and Technology , Keio University <br/> 3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522| 
+|E-mail |t_morita [at] ae.keio.ac.jp                          |

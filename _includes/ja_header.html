@@ -14,11 +14,12 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.ja_title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.ja_title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="/ja/">ホーム</a>
+        <a class="page-link" href="/ja/news/">ニュース</a>
+        <a class="page-link" href="/ja/cv/">経歴</a>
+        <a class="page-link" href="/ja/publications/">研究業績</a>
+        <a class="page-link" href="/ja/research/">研究内容</a>
+        <a class="page-link" href="/ja/software/">ソフトウェア</a>    
         [<a class="page-link" href="/">English</a>]
       </div>            
     </nav>
