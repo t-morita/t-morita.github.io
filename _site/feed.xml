@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takeshi Morita</title>
+    <description>Under Construction</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Feb 2016 22:08:21 +0900</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 22:08:21 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>
+</description>
+        <pubDate>Sat, 07 Feb 2015 00:00:00 +0900</pubDate>
+        <link>/2015/02/07/test.html</link>
+        <guid isPermaLink="true">/2015/02/07/test.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
