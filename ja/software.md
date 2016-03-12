@@ -4,7 +4,7 @@ ja_title: ソフトウェア
 permalink: /ja/software/
 ---
 
-* [JWO Refinement Tools](http://t-morita.github.io/JWO_Refinement_Tools/)
+* [JWO Refinement Tools](http://wikipedia-ontology.github.io/JWO_Refinement_Tools/)
 * [WikiBOK](https://github.com/WikiBok)
 * [SmaphoProbe](https://sites.google.com/site/smaphoprobe/)
 * [日本語Wikipediaオントロジー](https://osdn.jp/projects/wikipedia-ont/)
