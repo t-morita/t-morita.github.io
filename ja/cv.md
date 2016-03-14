@@ -93,17 +93,18 @@ permalink: /ja/cv/
 
 ## 国際会議委員
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
-* PAKM2008 (7th International Conference of Practical Aspects on Knowledge Management), Programme Committee 
-* PAKM2008 (7th International Conference of Practical Aspects on Knowledge Management), Local Organizing Committee
-* ASWC2009 (4th Annual Asian Semantic Web Conference), Additional Reviewer  
-* KSEM2009 (3rd International Conference on Knowledge Science, Engineering and Management), Programme Committee
+* The 7th International Conference of Practical Aspects on Knowledge Management(PAKM2008), Programme Committee 
+* The 7th International Conference of Practical Aspects on Knowledge Management (PAKM2008), Local Organizing Committee
+* The 4th Annual Asian Semantic Web Conference (ASWC2009), Additional Reviewer  
+* The 3rd International Conference on Knowledge Science, Engineering and Management (KSEM2009), Programme Committee
 * 2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Non-PC Reviewer
-* PAKM2010 (8th International Conference of Practical Aspects on Knowledge Management), Non-PC Reviewer
-* KSEM2010 (4th International Conference on Knowledge Science, Engineering and Management), Non-PC Reviewer   
-* JIST2012 (The 2nd Joint International Semantic Technology), Local Organizing Committee
-* JIST2012 (The 2nd Joint International Semantic Technology), Program Committee
-* JIST2013 (The 3rd Joint International Semantic Technology), Program Committee
-* JIST2014 (The 4th Joint International Semantic Technology), Program Committee
+* The 8th International Conference of Practical Aspects on Knowledge Management (PAKM2010), Non-PC Reviewer
+* The 4th International Conference on Knowledge Science, Engineering and Management (KSEM2010), Non-PC Reviewer   
+* The 2nd Joint International Semantic Technology (JIST2012), Local Organizing Committee
+* The 2nd Joint International Semantic Technology (JIST2012), Program Committee
+* The 3rd Joint International Semantic Technology (JIST2013), Program Committee
+* The First Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2013), Program Committee
+* The 4th Joint International Semantic Technology (JIST2014), Program Committee
 
 ## 論文査読者
 * 人工知能学会論文誌
@@ -112,8 +113,8 @@ permalink: /ja/cv/
 * 情報システム学会誌
 * 情報処理学会論文誌
 * モバイル学会誌
-* KAIS (Knowledge and Information Systems)
-* NGC (New Generation Computing)
+* Knowledge and Information Systems (KAIS) 
+* New Generation Computing (NGC) 
 
 # 受賞
 
