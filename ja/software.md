@@ -4,6 +4,7 @@ ja_title: ソフトウェア
 permalink: /ja/software/
 ---
 
+* [実践知能アプリケーション開発プラットフォーム PRINTEPS](http://printeps.org)
 * [JWO Refinement Tools](http://wikipedia-ontology.github.io/JWO_Refinement_Tools/)
 * [WikiBOK](https://github.com/WikiBok)
 * [SmaphoProbe](https://sites.google.com/site/smaphoprobe/)
