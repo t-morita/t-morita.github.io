@@ -93,6 +93,8 @@ permalink: /ja/cv/
 |2015年6月            |第29回 人工知能学会全国大会 OS-8 Linked Dataとオープンデータ活用  オーガナイザ|
 |2015年6月            |第29回人工知能学会全国大会 2G3 「経営とAI」  セッション 座長|
 |2016年6月            |第30回 人工知能学会全国大会 OS-19 Linked Dataとオープンデータ活用  オーガナイザ|
+|2016年9月 -現在      |『Special Section on Semantic Web and Linked Data』小特集編集委員会 編集委員|
+
 
 ## 国際会議委員
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
