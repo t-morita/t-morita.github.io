@@ -110,6 +110,7 @@ permalink: /ja/cv/
 * The 3rd Joint International Semantic Technology (JIST2013), Program Committee
 * The First International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2013), Program Committee
 * The 4th Joint International Semantic Technology (JIST2014), Program Committee
+* The 15th International Semantic Web Conference (ISWC2016), Local Organizing Committee
 * The 6th Joint International Semantic Technology (JIST2016), Program Committee
 * The 3rd International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2016), Program Committee
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
