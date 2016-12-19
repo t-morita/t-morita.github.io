@@ -20,13 +20,12 @@ permalink: /ja/publications/
 * [研究資金（分担）](#section-13)
 
 # 著書
-1.	森田 武史, 山口 高平，"3章オントロジー学習の現状と動向, オントロジーの普及と応用"，
-來村徳信 (著), 人工知能学会 (編集) ，オーム社 (2012)
+1.	森田 武史, 山口 高平，"3章オントロジー学習の現状と動向, オントロジーの普及と応用"，來村徳信 (著), 人工知能学会 (編集) ，オーム社 (2012)
 
 # 学術論文
-1.	Takeshi Morita, Chie Iijima, Wataru Okawara, Yoshitaro Enomoto, Takahira Yamaguchi, Implementing Mobility Service with Japanese Linked Data, Special Issue on Data Science for Big Data, International Journal of Computational Intelligence Studies (to appear)
+1.	Takeshi Morita, Chie Iijima, Wataru Okawara, Yoshitaro Enomoto, Takahira Yamaguchi, "Implementing Mobility Service with Japanese Linked Data", Special Issue on Data Science for Big Data, International Journal of Computational Intelligence Studies (to appear)
+3.	Yu Sugawara, Takeshi Morita, Hidenao Abe, Shuichi Matsumoto and Takahira Yamaguchi，"Identifying Behavior Objective from Traffic Behavior Log Data by Using Facility Ontology", Special Issue on Data Mining and Service Science for Innovation, International Journal of Knowledge Engineering and Soft Data Paradigms, Vol. 5, No.2, pp.68-84 (2016) DOI: [10.1504/IJKESDP.2016.075975](http://dx.doi.org/10.1504/IJKESDP.2016.075975)
 2.	多川 勇介，田中 改，森田 武史，南 裕也，並河 大地，下村 道夫，山口 高平，"Linked Data とルールベースの統合に基づく食事療法支援サービスの開発と評価"，人工知能学会論文誌，Vol.31, No1 pp.16-28, (2016) DOI: [10.1527/tjsai.31-1_LOD-B](http://dx.doi.org/10.1527/tjsai.31-1_LOD-B)
-3.	Yu Sugawara, Takeshi Morita, Hidenao Abe, Shuichi Matsumoto and Takahira Yamaguchi，"Identifying Behavior Objective from Traffic Behavior Log Data by Using Facility Ontology", Special Issue on Data Mining and Service Science for Innovation, International Journal of Knowledge Engineering and Soft Data Paradigms (to appear)
 4.	森田 武史，洪 潤基，斎藤 忍，飯島 正，山口 高平，"SCOR オントロジーに基づく生産管理プロセスモデリング支援ツールの実装"，情報システム学会誌，Vol.11 No.1 pp.13-47 (2015)
 5.	玉川 奨，香川 宏介，森田 武史，山口 高平，"大規模Linked Open Dataのための日本語語彙の構築"，人工知能学会論文誌, Vol. 29 No.4 pp.386-395 (2014) DOI: [10.1527/tjsai.29.386](http://doi.org/10.1527/tjsai.29.386)
 6.	Takeshi Morita, Yuka Sekimoto, Susumu Tamagawa and Takahira Yamaguchi, "Building up a class hierarchy with properties by refining and integrating Japanese Wikipedia Ontology and Japanese WordNet", Web Intelligence and Agent Systems: An International Journal, Volume 12, Number 2, pp. 211-233, IOS Press (2014) DOI: [10.3233/WIA-140293](http://dx.doi.org/10.3233/WIA-140293)
@@ -38,6 +37,10 @@ permalink: /ja/publications/
 12. Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
 # 国際会議論文
+1. Hiroshi Asano, Takeshi Morita, and Takahira Yamaguchi, "Development and Evaluation of an Operational Service Robot Using Wikipedia-based and Domain Ontologies", 2016 IEEE/WIC/ACM International Conference on Web Intelligence (2016) 
+1. Hiroshi Asano, Takeshi Morita, and Takahira Yamaguchi, "A Question Answering System with Wikipedia-based and Domain Ontologies", 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (2016)
+1. Ryutaro Nambu, Tatsuya Kimoto, Takeshi Morita, and Takahira Yamaguchi, "Integrating Smart Glasses with Question-answering Module in Assistant Work Environment", Knowledge-Based and Intelligent Information & Engineering Systems 20th Annual Conference, KES-2016, Vol. 96, pp. 1772-1781 (2016)[10.1016/j.procs.2016.08.226](http://dx.doi.org/10.1016/j.procs.2016.08.226) 
+1. Takeshi Morita, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Integrating Symbols and Signals Based on Stream Reasoning and ROS", 14th Pacific Rim Knowledge Acquisition Workshop (PKAW 2016), LNAI Vol. 9806, pp. 251-260 (2016) DOI: [10.1007/978-3-319-42706-5_19](http://dx.doi.org/10.1007/978-3-319-42706-5_19)
 1.	Haruya Suga, Takeshi Morita, and Takahira Yamaguchi，"Primary School Teacher-Robot Collaboration with Multiple Information Sources", Workshop on Bridging user needs to deployed applications of service robots, IEEE/RSJ International Conference on Intelligent Robots and Systems 2015 (2015)
 2.	Yu Sugawara, Takeshi Morita, Shunta Saito and Takahira Yamaguchi，"An Intelligent Application Development Platform for Service Robots", Workshop on Multimodal Semantics for Robotic Systems (MuSRobS), IEEE/RSJ International Conference on Intelligent Robots and Systems 2015 (2015)
 3.	Tatsuya Kimoto, Takeshi Morita, Takahito Ishii, Haryuya Suga, Yu Sugawara, Takashi Beppu and Takahira Yamaguchi，"Integrating Heterogeneous Data Sources for Planning Road Reconstruction", Knowledge-Based and Intelligent Information & Engineering Systems 19th Annual Conference, KES-2015, Procedia Computer Science, Volume 60, pp.1720-1727 (2015) DOI: [10.1016/j.procs.2015.08.302](http://dx.doi.org/10.1016/j.procs.2015.08.302)
@@ -67,6 +70,7 @@ permalink: /ja/publications/
 27.	Takeshi Morita, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Meta-Model Management Environment for RDF Contents", Proceedings of the 2nd International Conference on Global Research and Education Vol.2 pp.307-314 (2003)
 
 # 招待講演
+1.  Takeshi Morita,"Implementing Customer Reception Service in Robot Teahouse based on PRINTEPS", Workshop Keynote Talk, 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (2016)
 1.	森田 武史, "日本語Wikipediaからの大規模オントロジーの半自動構築と応用", 電子情報通信学会 第21回Webインテリジェンスとインタラクション研究会 IEICE SIG Notes, WI2-2011-T06 pp.17-18, (2011)
 
 # 総説・解説
@@ -77,6 +81,7 @@ permalink: /ja/publications/
 5.	森田 武史, 山口 高平, "オントロジー学習の現状と動向", 人工知能学会誌 Vol.25 No.3 pp.354-365 (2010)
 
 # 国際会議 ポスター発表
+1. Takeshi Morita, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Implementing Customer Reception Service in Robot Cafe using Stream Reasoning and ROS based on PRINTEPS", International Semantic Web Conference (Posters & Demos) (2016)
 1.	Takuya Makiyama, Yu Ono, Takeshi Morita, Takahira Yamaguchi, Hiroaki Kogusuri, Hideyuki Tejima, Takahiro Sugiyama, "Implementing Tourism Service Based on Linked Data with Social Experiments", Poster and Demonstartion,The Joint International Semantic Technology Conference (JIST) 2014 (2014)
 2.	Takeshi Morita, Susumu Tamagawa, Takahira Yamaguchi, "Constructing a Class Hierarchy with Properties by Refining and Aligning Japanese Wikipedia Ontology and Japanese WordNet", 13th International Semantic Web Conference (ISWC2014), 9th International Workshop on Ontology Matching (2014)
 3.	Shinya Sakurai, Takuya Tejima, Takeshi Morita, Noriaki Izumi, Takahira Yamaguchi, "Building up a Large Ontology from Wikipedia Japan with Infobox and Category Tree", In Poster & Demonstration Proceedings of the 4th Asian Semantic Web Conference (2009) 
@@ -87,7 +92,9 @@ permalink: /ja/publications/
 8.	Noriaki Izumi, Takeshi Morita, Naoki Fukuta, Takahira Yamaguchi, "RDF-based Meta-Model Management Environment", Proceedings of the 6th SANKEN (I.S.I.R) International Symposium on New Trends in Knowledge Processing, Data mining, Seamntic Web and Computational Science pp.87-88 (2003)
 
 # 研究会・全国大会 （第１著者）
-1.	森田 武史，西村 良太，山口高平，"ストリーム推論とROSに基づく総合知能アプリケーション開発ツールPRINTEPS"，電子情報通信学会 クラウドネットワークロボット研究会，Vol.115 No.375 pp.55-60 (2015)
+1.  森田 武史，西村 良太，山口 高平, "ROSに基づく総合知能アプリケーション開発プラットフォームPRINTEPSとその応用"，人工知能学会，第108回 知識ベースシステム研究会 (2016/6/5)
+1.  森田 武史，西村 良太，山口 高平, "ROSに基づく総合知能アプリケーション開発プラットフォームPRINTEPSのアーキテクチャ"，2016年度人工知能学会全国大会（第31回），4C4-1 (2016/6/9)
+1.	森田 武史，西村 良太，山口 高平，"ストリーム推論とROSに基づく総合知能アプリケーション開発ツールPRINTEPS"，電子情報通信学会 クラウドネットワークロボット研究会，Vol.115 No.375 pp.55-60 (2015)
 2.	森田 武史，山口 高平，"PRINTEPSアーキテクチャの構成と実践"，第29回人工知能学会全国大会,1I4-1 (2015)
 3.	森田 武史, 玉川 奨, 山口 高平, "オントロジーアライメントを用いた日本語Wikipediaオントロジーと日本語WordNetの統合", 第28回 セマンティックウェブとオントロジー研究会 SIG-SWO-A1202-07, (2012)
 4.	森田 武史, 玉川 奨, 山口 高平, "日本語Wikipediaオントロジーと日本語WordNetの統合", 第96回 知識ベースシステム研究会 pp.9-14, (2012)
@@ -105,6 +112,10 @@ permalink: /ja/publications/
 16.	森田 武史, 和泉 憲明, 福田 直樹, 山口 高平, "セマンティックWebのためのメタモデル管理ツール", 第17回 人工知能学会全国大会論文集 1G2-05 (2003)
 
 # 研究会・全国大会 （共著）
+1. 淺野 泰史, 森田 武史, 山口 高平, "ドメインオントロジーと日本語Wikipediaオントロジーの統合に基づく質問応答ロボットの開発と評価", P016 (2016/11/12)
+1. 中村 高大, 森田 武史, 山口 高平, "ユーザ向けAIアプリ開発ツールPRINTEPSによるロボット喫茶店の実装と評価", 第12回 情報システム学会 全国大会・研究発表大会, P019 (2016/11/12)
+1. 菅原 優 丸川 大輝 番原 常公 田中 康浩 森田 武史 斎藤 英雄 山口 高平, "PRINTEPSにおけるロボット喫茶店の来店客対応と席案内の実現と評価"，2016年度人工知能学会全国大会（第31回），4C4-3 (2016/6/9)
+1. 石井 誉仁，中村 高大，八馬 遼，中山 祐介，黒須 純，萬 礼応，森田 武史，高橋 正樹，山口 高平, "PRINTEPSにおけるロボット喫茶店の注文に基づく飲料準備の実現と評価"，2016年度人工知能学会全国大会（第31回），4C4-5 (2016/6/9)
 1. 菅原 優，丸川 大輝，森田 武史，山口 高平，"PRINTEPSにおけるイベントを通したルールと画像センシングの統合～喫茶店業務への適用1～"，情報処理学会第78回全国大会，慶應義塾大学矢上キャンパス（神奈川県・横浜市）(2016/3/11)
 1. 石井 誉仁，中村 高大，八馬 遼，中山 祐介，森田 武史，山口 高平，"PRINTEPSにおけるオントロジーとマニピュレーションの統合～喫茶店業務への適用２～"，情報処理学会第78回全国大会，慶應義塾大学矢上キャンパス（神奈川県・横浜市）(2016/3/11)
 1.	筒井 瑳斗志，森田 武史，山口 高平，"Extending DBpedia with List Structures in Wikipedia Articles"，第36回セマンティックウェブとオントロジー研究会-DBpediaシンポジウム，人工知能学会, SIG-SWO-036-07　(2015)
@@ -154,7 +165,8 @@ permalink: /ja/publications/
 45.	洪 潤基, 森田 武史, 飯島 正, 小出 誠二, 山口 高平, "日本語DODDLEに基づくロケット運用オントロジーの構築と評価", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-1 Vol.105 No.48 pp.1-6 (2005)
 
 # 学会誌記事
-1.	古崎 晃司，森田 武史，"特集 「2015 年度人工知能学会全国大会（第 29 回）」 OS-8「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.30 NO.6 pp. 779 (2015)
+1.	森田 武史,  古崎 晃司, "特集 「2016 年度人工知能学会全国大会（第 30 回）」 OS-19「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.31 NO.6 pp. 896 (2016)
+1.	古崎 晃司, 森田 武史, "特集 「2015 年度人工知能学会全国大会（第 29 回）」 OS-8「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.30 NO.6 pp. 779 (2015)
 2.	森田 武史, "「編集委員今年の抱負 2013」 ウェブ担当の今年の抱負", 人工知能学会誌 Vol.28 No.1 p.37, (2013)
 3.	森田武史, "Wikipediaを活用したセマンティックWebコンテンツの半自動構築およびWeb APIの実装", 電気通信普及財団研究調査報告書(CD-ROM)  Vol. 26 pp.503-530 (2011)
 4.	森田 武史, "編集後記", 人工知能学会誌 Vol.25 No.6 p.917, (2010)
