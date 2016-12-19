@@ -20,5 +20,5 @@ permalink: /ja/
 # 連絡先
 
 |勤務先 所在地  |〒223-8522 横浜市港北区日吉3-14-1 <br/> 慶應義塾大学 理工学部 管理工学科 矢上キャンパス 23棟621室 | 
-|E-mail |t_morita [at] ae.keio.ac.jp                          |
+|E-mail |t_morita [at] keio.jp                          |
 

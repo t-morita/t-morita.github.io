@@ -16,4 +16,4 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 # Contact
 
 |Office address  | Department of Administration Engineering, Faculty of Science and Technology , Keio University <br/> 3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522| 
-|E-mail |t_morita [at] ae.keio.ac.jp                          |
+|E-mail |t_morita [at] keio.jp                          |
