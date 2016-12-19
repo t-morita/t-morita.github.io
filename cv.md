@@ -36,3 +36,6 @@ permalink: /cv/
 * The 4th Joint International Semantic Technology (JIST2014), Program Committee
 * Knowledge and Information Systems (KAIS) Reviewer
 * New Generation Computing (NGC) Reviewer
+* The 6th Joint International Semantic Technology (JIST2016), Program Committee
+* The 3rd International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2016), Program Committee
+* 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
