@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 ja_title: 研究業績
-permalink: /ja/publications/
+permalink: /publications-ja/
 ---
 
 * [著書](#section)

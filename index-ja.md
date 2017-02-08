@@ -1,7 +1,7 @@
 ---
 layout: ja_home_page
 ja_title: ホーム
-permalink: /ja/
+permalink: /index-ja.html
 ---
 
 現在，Webサイトを構築中です．

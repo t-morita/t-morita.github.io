@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 ja_title: 経歴
-permalink: /ja/cv/
+permalink: /cv-ja/
 ---
 
 * [学歴](#section)

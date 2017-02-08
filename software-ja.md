@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 ja_title: ソフトウェア
-permalink: /ja/software/
+permalink: /software-ja/
 ---
 
 * [実践知能アプリケーション開発プラットフォーム PRINTEPS](http://printeps.org)
