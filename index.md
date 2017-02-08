@@ -12,6 +12,7 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 * [GitHub](https://github.com/t-morita)
 * [SlideShare](http://www.slideshare.net/takeshimorita)
 * [researchmap](http://researchmap.jp/t_morita/)
+* [ResearchGate](https://www.researchgate.net/profile/Takeshi_Morita4)
 
 # Contact
 
