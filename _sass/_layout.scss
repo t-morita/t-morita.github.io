@@ -27,6 +27,8 @@
 .site-nav {
     float: right;
     line-height: 56px;
+	font-size: 110%;	
+	font-weight: bold;
 
     .menu-icon {
         display: none;
@@ -100,7 +102,6 @@
 .site-footer {
     border-top: 2px solid $grey-color-dark;
     border-bottom: 5px solid $grey-color-dark;
-	padding: 5px;
 }
 
 .footer-heading {
