@@ -9,6 +9,8 @@ permalink: /index-ja.html
 <tr><th>所属</th><td>慶應義塾大学 理工学部 管理工学科</td></tr>
 <tr><th>職名</th><td>専任講師（有期）</td></tr>
 <tr><th>学位</th><td>博士（工学）</td></tr>
+<tr><th>勤務先 所在地</th><td>〒223-8522 横浜市港北区日吉3-14-1 <br/> 慶應義塾大学 理工学部 管理工学科 矢上キャンパス 23棟621室</td> </tr>
+<tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
 </table>
 
 # 略歴
@@ -34,11 +36,3 @@ permalink: /index-ja.html
 * [SlideShare](http://www.slideshare.net/takeshimorita)
 * [researchmap](http://researchmap.jp/t_morita/)
 * [ResearchGate](https://www.researchgate.net/profile/Takeshi_Morita4)
-
-# 連絡先
-
-<table>
-<tr><th>勤務先 所在地</th><td>〒223-8522 横浜市港北区日吉3-14-1 <br/> 慶應義塾大学 理工学部 管理工学科 矢上キャンパス 23棟621室</td> </tr>
-<tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
-</table>
-
