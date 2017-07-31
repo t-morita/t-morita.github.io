@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 2px solid $grey-color-dark;
+    border-bottom: 1px solid $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -11,8 +11,8 @@
 }
 
 .site-title {
-    font-size: 36px;
-    font-weight: 300;
+    font-size: 40px;
+    font-weight: bold;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -100,8 +100,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 2px solid $grey-color-dark;
+    border-top: 1px solid $grey-color-dark;
     border-bottom: 5px solid $grey-color-dark;
+	padding: 0.5em 0;
 }
 
 .footer-heading {
@@ -227,7 +228,8 @@ ol li{
     margin-bottom: $spacing-unit;
 
     h1 {
-      	font-size: 24px;
+      	font-size: 22px;
+	    font-weight: bold;
     	line-height: 150%;
     	border-style: solid;
     	border-width: 0 0 0.08em 0;
@@ -240,7 +242,8 @@ ol li{
     }
 
     h2 {
-        font-size: 20px;
+        font-size: 18px;
+	    font-weight: bold;
         line-height: 150%;
         margin-top: 0.5em;
     	margin-bottom: 0.5em;
@@ -253,7 +256,7 @@ ol li{
     }
 
     h3 {
-        font-size: 18px;
+        font-size: 16px;
         line-height: 100%;
     	margin-bottom: 0em;
     	margin-left: 0.5em;
@@ -263,7 +266,7 @@ ol li{
     }
 
     h4 {
-        font-size: 16px;
+        font-size: 14px;
 
         @include media-query($on-laptop) {
             font-size: 14px;
@@ -277,7 +280,6 @@ table {
     border-collapse: collapse;
 }
 th {
-    width: 25%;
     padding: 6px;
     text-align: left;
     vertical-align: top;
@@ -289,4 +291,17 @@ td{
     padding: 6px;
     background-color: white;
     border: 1px solid #303030;
+}
+
+.flexbox {
+  display: flex;
+}
+
+
+.left {
+width: 200px;
+}
+
+.right {
+flex: 1;
 }
