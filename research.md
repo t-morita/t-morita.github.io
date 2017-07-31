@@ -57,6 +57,7 @@ In this research, we propose a method and a tool to detect the difference betwee
 ## Related paper
 * <u>Takeshi Morita</u>, Yunki Hong, Shinobu Saito, Tadashi Iijima, Takahira Yamaguchi, "A Support Tool for Production Management Process Modeling based on SCOR Ontology", JISSJ Vol.11 No.1 pp.13-47 (2015) DOI: [10.19014/jissj.11.1_13](http://doi.org/10.19014/jissj.11.1_13)
 
+
 # <a id="section-8">Building up Japanese Vocabulary for Large Scale Linked Open Data</a>
 ## Abstract
 Here is discussed how to build up Japanese vocabulary for Japanese Linked Open Data. The vocabulary is constructed by mapping properties of the Japanese Wikipedia Ontology to the Linked Open Vocabularies. The Japanese Wikipedia Ontology is a large scale ontology learned from the Japanese Wikipedia. It includes many properties and property relations (property domains and property ranges). The Linked Open Vocabularies is a large cloud for vocabularies of Linked Open Data. We construct a Japanese vocabulary semi-automatically by mapping properties to vocabularies. Experimental case studies show us that we can use the built Japanese vocabulary as a general vocabulary for building Japanese Linked Open Data.

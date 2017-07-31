@@ -63,6 +63,7 @@ Traffic behaviour surveys by hand require both a lot of money and human resource
 ## 関連論文
 * <u>森田 武史</u>，洪 潤基，斎藤 忍，飯島 正，山口 高平，"SCOR オントロジーに基づく生産管理プロセスモデリング支援ツールの実装"，情報システム学会誌，Vol.11 No.1 pp.13-47 (2015) DOI: [10.19014/jissj.11.1_13](http://doi.org/10.19014/jissj.11.1_13)
 
+
 # <a id="section-9">大規模Linked Open Dataのための日本語語彙の構築</a>
 ## 概要
 本論文では，はじめに，大規模な LOD 構築手法とし て，日本語 Wikipedia オントロジーの LOD 化に向けた取 り組みを述べる．次に，構築した日本語 Wikipedia オン トロジー LOD が持つ，多くのプロパティと Linked Open Vocabularies に存在する語彙の対応付けを行うことで， 半自動的に日本語 LOD のためのプロパティの発見と日本語化を行った．最後に，対応付けを行ったプロパティと schema.org の語彙を比較することで，汎用的な日本語語彙としての有用性を示し，日本語 Wikipedia オントロジー の日本語 LOD ハブとしての有用性を示した．
