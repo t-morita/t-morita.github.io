@@ -94,6 +94,8 @@ permalink: /cv-ja/
 |2015年6月            |第29回人工知能学会全国大会 2G3 「経営とAI」  セッション 座長|
 |2016年6月            |第30回 人工知能学会全国大会 OS-19 Linked Dataとオープンデータ活用  オーガナイザ|
 |2016年9月 -現在      |『Special Section on Semantic Web and Linked Data』小特集編集委員会 編集委員|
+|2016年11月-現在      | Linked Open Data Challenge 実行委員 |
+|2017年5月            |第31回 人工知能学会全国大会 OS-39 Linked Dataとナレッジグラフ オーガナイザ|
 
 
 ## 国際会議委員
@@ -114,6 +116,7 @@ permalink: /cv-ja/
 * The 6th Joint International Semantic Technology (JIST2016), Program Committee
 * The 3rd International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2016), Program Committee
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
+* 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2017), Organizers
 
 ## 論文査読者
 * 人工知能学会論文誌
@@ -127,10 +130,10 @@ permalink: /cv-ja/
 
 # 受賞
 
-| 2016年5月 | 一般社団法人 情報システム学会 情報システム学会設立 10 周年記念 優秀論文賞 <br/> SCOR オントロジーに基づく生産管理プロセスモデリング支援ツールの実装 <br/> 受賞者： 森田 武史，洪 潤基，斎藤 忍，飯島 正，山口 高平 |
+| 2016年5月 | 一般社団法人 情報システム学会 情報システム学会設立 10 周年記念 優秀論文賞 <br/> SCOR オントロジーに基づく生産管理プロセスモデリング支援ツールの実装 <br/> 受賞者： <u>森田 武史</u>，洪 潤基，斎藤 忍，飯島 正，山口 高平 |
 | 2014年6月 | 人工知能学会 功労賞 <br/>受賞者：森田 武史|
-| 2013年3月 | Linked Open Data Challenge Japan 2012 データセット部門優秀賞 <br/> 日本語Wikipediaオントロジー <br/>受賞者： 玉川 奨, 香川 宏介, 森田 武史, 山口 高平|
-| 2012年6月 | 人工知能学会 2011年度研究会優秀賞 <br/> 日本語Wikipediaからのプロパティ付きクラス階層の構築と評価 <br/> 受賞者：森田 武史, 関本 有佳, 玉川 奨, 山口 高平|
-| 2011年7月 | 人工知能学会 2011年度(第25回) 全国大会優秀賞 <br/> 日本語Linked Dataに基づくモビリティサービスの実現 <br/> 受賞者：森田 武史 |
-| 2006年10月 | 慶應義塾大学 国際会議論文発表奨励賞 <br/>  受賞者：森田 武史|
+| 2013年3月 | Linked Open Data Challenge Japan 2012 データセット部門優秀賞 <br/> 日本語Wikipediaオントロジー <br/>受賞者： 玉川 奨, 香川 宏介, <u>森田 武史</u>, 山口 高平|
+| 2012年6月 | 人工知能学会 2011年度研究会優秀賞 <br/> 日本語Wikipediaからのプロパティ付きクラス階層の構築と評価 <br/> 受賞者：<u>森田 武史</u>, 関本 有佳, 玉川 奨, 山口 高平|
+| 2011年7月 | 人工知能学会 2011年度(第25回) 全国大会優秀賞 <br/> 日本語Linked Dataに基づくモビリティサービスの実現 <br/> 受賞者：<u>森田 武史</u> |
+| 2006年10月 | 慶應義塾大学 国際会議論文発表奨励賞 <br/>  受賞者：<u>森田 武史</u>|
 
