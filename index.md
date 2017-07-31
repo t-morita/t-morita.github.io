@@ -6,6 +6,13 @@ permalink: /
 
 Takeshi Morita is an Assistant Professor at the Faculty of Science and Technology at Keio University. He received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. He received his Ph.D. in Engineering from Keio University in 2008. His research interests include Ontology Engineering and Semantic Web. He is a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
 
+# Software
+* [PRINTEPS (PRactical INTElligent aPplicationS)](http://printeps.org/index_en.html)
+* [JWO Refinement Tools](http://wikipedia-ontology.github.io/JWO_Refinement_Tools/)
+* [SmaphoProbe](https://github.com/smaphoprobe/SmaphoProbe)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://github.com/doddle-owl/DODDLE-OWL)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mr-3.github.io)
+
 # Personal Links
 * [Google Scholar Citation](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
