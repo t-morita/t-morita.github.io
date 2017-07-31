@@ -5,10 +5,10 @@ permalink: /
 ---
 <table>
 <tr>
-<td><img width = "400px" src="http://yagamix.st.keio.ac.jp/tprofile/images/dab69f20ddd8d8f44f7afeb160338955.jpg"></img></td>
+<td><img width = "400px" src="http://yagamix.st.keio.ac.jp/tprofile/images/dab69f20ddd8d8f44f7afeb160338955.jpg"></td>
 <td>
 Takeshi Morita is an Assistant Professor at the Faculty of Science and Technology at Keio University. He received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. He received his Ph.D. in Engineering from Keio University in 2008. His research interests include Ontology Engineering and Semantic Web. He is a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
-<td>
+</td>
 </tr>
 </table>
 
