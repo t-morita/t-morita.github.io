@@ -5,6 +5,7 @@ permalink: /index-ja.html
 ---
 
 <table>
+<tr><td rowspan="7"><img src="http://yagamix.st.keio.ac.jp/tprofile/images/dab69f20ddd8d8f44f7afeb160338955.jpg"</img></td></tr>
 <tr><th>氏名</th><td>森田 武史</td></tr>
 <tr><th>所属</th><td>慶應義塾大学 理工学部 管理工学科</td></tr>
 <tr><th>職名</th><td>専任講師（有期）</td></tr>
