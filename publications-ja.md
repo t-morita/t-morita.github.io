@@ -1,6 +1,6 @@
 ---
 layout: ja_page
-ja_title: 研究業績
+ja_title: 業績
 permalink: /publications-ja/
 ---
 
