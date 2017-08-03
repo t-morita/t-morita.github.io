@@ -276,9 +276,10 @@ ol li{
 
 /* Table */
 table {
-    width: 100%;
     border-collapse: collapse;
+    table-layout: auto;
 }
+
 th {
     padding: 6px;
     text-align: left;
@@ -287,6 +288,7 @@ th {
     background-color: #eee;
     border: 1px solid #303030;
 }
+
 td{
     padding: 6px;
     background-color: white;

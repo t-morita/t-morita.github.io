@@ -350,8 +350,8 @@ ol li {
 
 /* Table */
 table {
-  width: 100%;
-  border-collapse: collapse; }
+  border-collapse: collapse;
+  table-layout: auto; }
 
 th {
   padding: 6px;

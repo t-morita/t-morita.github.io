@@ -1,28 +1,45 @@
 ---
 layout: ja_page
 ja_title: 業績
-permalink: /publications-ja/
+permalink: /achievement-ja/
 ---
 
-* [著書](#section-1)
-* [学術論文](#section-2)
-* [国際会議論文](#section-3)
-* [招待講演](#section-4)
-* [総説・解説](#section-5)
-* [国際会議 ポスター発表](#section-6)
-* [研究会・全国大会 （第１著者）](#section-7)
-* [研究会・全国大会 （共著）](#section-8)
+* [受賞](#section-1)
+* [著書](#section-2)
+* [学術論文](#section-3)
+* [国際会議論文](#section-4)
+* [招待講演](#section-5)
+* [総説・解説](#section-6)
+* [国際会議 ポスター発表](#section-7)
+* [研究会・全国大会](#section-8)
+	* [研究会・全国大会 （第１著者）](#section-8-1)
+	* [研究会・全国大会 （共著）](#section-8-2)
 * [学会誌記事](#section-9)
-* [博士論文](#section-10)
-* [修士論文](#section-11)
-* [卒業論文](#section-12)
-* [研究資金（代表）](#section-13)
-* [研究資金（分担）](#section-14)
+* [学位論文](#section-10)
+	* [博士論文](#section-10-1)
+	* [修士論文](#section-10-2)
+	* [卒業論文](#section-10-3)
+* [研究資金](#section-11)
+	* [研究資金（代表）](#section-11-1)
+	* [研究資金（分担）](#section-11-2)
+* [報道](#section-12)
+* [ソフトウェア](#section-13)
+	* [自身で研究開発したソフトウェア](#section-13-1)
+	* [研究開発に関わったソフトウェアやリソース](#section-13-2)
 
-# <a id="section-1"> 著書</a>
+# <a id="section-1">受賞</a>
+
+| 2016年5月 | 一般社団法人 情報システム学会 情報システム学会設立 10 周年記念 優秀論文賞 <br/> SCOR オントロジーに基づく生産管理プロセスモデリング支援ツールの実装 <br/> 受賞者： <u>森田 武史</u>，洪 潤基，斎藤 忍，飯島 正，山口 高平 |
+| 2014年6月 | 人工知能学会 功労賞 <br/>受賞者：<u>森田 武史</u>|
+| 2013年3月 | Linked Open Data Challenge Japan 2012 データセット部門優秀賞 <br/> 日本語Wikipediaオントロジー <br/>受賞者： 玉川 奨, 香川 宏介, <u>森田 武史</u>, 山口 高平|
+| 2012年6月 | 人工知能学会 2011年度研究会優秀賞 <br/> 日本語Wikipediaからのプロパティ付きクラス階層の構築と評価 <br/> 受賞者：<u>森田 武史</u>, 関本 有佳, 玉川 奨, 山口 高平|
+| 2011年7月 | 人工知能学会 2011年度(第25回) 全国大会優秀賞 <br/> 日本語Linked Dataに基づくモビリティサービスの実現 <br/> 受賞者：<u>森田 武史</u> |
+| 2006年10月 | 慶應義塾大学 国際会議論文発表奨励賞 <br/>  受賞者：<u>森田 武史</u>|
+
+# <a id="section-2">著書</a>
 1.	<u>森田 武史</u>, 山口 高平，"オントロジーの普及と応用 (担当： 3章オントロジー学習の現状と動向)"，來村徳信 (著), 人工知能学会 (編集) ，オーム社 (2012) ISBN-13: 978-4274211997
 
-# <a id="section-2"> 学術論文</a>
+# <a id="section-3">学術論文</a>
 1. Ryutaro Nambu, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment", The Review of Socionetwork Strategies, Vol. 11, Issue 1, pp. 1-16 (2017) [10.1007/s12626-017-0003-4](https://doi.org/10.1007/s12626-017-0003-4)
 1. <u>Takeshi Morita</u>, Chie Iijima, Wataru Okawara, Yoshitaro Enomoto, Takahira Yamaguchi, "Implementing Mobility Service with Japanese Linked Data", International Journal of Computational Intelligence Studies, Vol. 5, No. 3/4, pp.267-288 (2016) DOI: [10.1504/IJCISTUDIES.2016.083573](https://doi.org/10.1504/IJCISTUDIES.2016.083573)
 1. Yu Sugawara, <u>Takeshi Morita</u>, Hidenao Abe, Shuichi Matsumoto and Takahira Yamaguchi，"Identifying Behavior Objective from Traffic Behavior Log Data by Using Facility Ontology", Special Issue on Data Mining and Service Science for Innovation, International Journal of Knowledge Engineering and Soft Data Paradigms, Vol. 5, No.2, pp.68-84 (2016) DOI: [10.1504/IJKESDP.2016.075975](http://dx.doi.org/10.1504/IJKESDP.2016.075975)
@@ -37,7 +54,7 @@ permalink: /publications-ja/
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "DODDLE-OWL: Interactive Domain Ontology Development with Open Source Software in Java", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E91-D No.4 pp.945-958 (2008) DOI: [10.1093/ietisy/e91-d.4.945](http://dx.doi.org/10.1093/ietisy/e91-d.4.945)
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
-# <a id="section-3"> 国際会議論文</a>
+# <a id="section-4">国際会議論文</a>
 1. Chihiro Nishimoto, Shunsuke Akashiba, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Teaching Assistant Robot Development by PRINTEPS", Robots 4 Learning, HRI2017 (2017)
 1. Hiroshi Asano, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "Development and Evaluation of an Operational Service Robot Using Wikipedia-based and Domain Ontologies", 2016 IEEE/WIC/ACM International Conference on Web Intelligence, pp.511-514 (2016) DOI: [10.1109/WIW.2016.035](https://doi.org/10.1109/WIW.2016.035)
 1. Hiroshi Asano, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "A Question Answering System with Wikipedia-based and Domain Ontologies", 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning, pp. 84-87 (2016)
@@ -72,20 +89,20 @@ permalink: /publications-ja/
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "Domain Ontology Constrution with Quality Refinement", Proceedings of the Pacific Rim Knowledge Acquisition Workshop 2004 pp.116-126 (2004)
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Meta-Model Management Environment for RDF Contents", Proceedings of the 2nd International Conference on Global Research and Education Vol.2 pp.307-314 (2003)
 
-# <a id="section-4"> 招待講演</a>
+# <a id="section-5">招待講演</a>
 1. Takahira Yamaguchi, <u>Takeshi Morita</u>, "A Platform PRINTEPS to  Develop Practical Artificial Intelligence", Invited Lecture, Knowledge Engineering Group (2017/3/7)
 1. <u>Takeshi Morita</u>, "Implementing Customer Reception Service in Robot Teahouse based on PRINTEPS", Workshop Keynote Talk, 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (2016/10/13)
 1. <u>森田 武史</u>, "BRMSの進化と今後の課題", AIワークショップ，富士通総研 (2014/7/24)
 1. <u>森田 武史</u>, "日本語Wikipediaからの大規模オントロジーの半自動構築と応用", 電子情報通信学会 第21回Webインテリジェンスとインタラクション研究会 IEICE SIG Notes, WI2-2011-T06 pp.17-18, (2011/11/7)
 
-# <a id="section-5"> 総説・解説</a>
+# <a id="section-6">総説・解説</a>
 1. 川村 隆浩, <u>森田 武史</u>, 福田 直樹，"Linked Dataとセマンティック技術の海外動向"，人工知能学会誌 Vol.30 No.5 pp.580-589 (2015)
 1. <u>森田 武史</u>，山口 高平, "業務ルール管理システムBRMSの現状と動向", 人工知能学会誌 Vol. 29 No.3 pp.277-285 (2014) 
 1. <u>森田 武史</u>, 山口 高平, "Linked Dataを利用した情報統合", 人工知能学会誌 Vol. 27 No.2 pp.189-199 (2012)
 1. 山口高平, <u>森田武史</u>，"サービスイノベーションとAIと教育〔第6回〕体感知教育を基軸にしたサービス・イノベーション人材育成"，人工知能学会誌 Vol. 26 No.2 pp.196-202 (2011)
 1. <u>森田 武史</u>, 山口 高平, "オントロジー学習の現状と動向", 人工知能学会誌 Vol.25 No.3 pp.354-365 (2010)
 
-# <a id="section-6"> 国際会議 ポスター発表</a>
+# <a id="section-7">国際会議 ポスター発表</a>
 1. <u>Takeshi Morita</u>, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Implementing Customer Reception Service in Robot Cafe using Stream Reasoning and ROS based on PRINTEPS", International Semantic Web Conference (Posters & Demos) (2016)
 1. Takuya Makiyama, Yu Ono, <u>Takeshi Morita</u>, Takahira Yamaguchi, Hiroaki Kogusuri, Hideyuki Tejima, Takahiro Sugiyama, "Implementing Tourism Service Based on Linked Data with Social Experiments", Poster and Demonstartion,The Joint International Semantic Technology Conference (JIST) 2014 (2014)
 1. <u>Takeshi Morita</u>, Susumu Tamagawa, Takahira Yamaguchi, "Constructing a Class Hierarchy with Properties by Refining and Aligning Japanese Wikipedia Ontology and Japanese WordNet", 13th International Semantic Web Conference (ISWC2014), 9th International Workshop on Ontology Matching (2014)
@@ -96,7 +113,9 @@ permalink: /publications-ja/
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "DODDLE-OWL: On-the-fly Ontology Construction with Ontology Quality Management", In Poster & Demonstration Proceedings of the 3rd International Semantic Web Conference  p.47 (2004)
 1. Noriaki Izumi, <u>Takeshi Morita</u>, Naoki Fukuta, Takahira Yamaguchi, "RDF-based Meta-Model Management Environment", Proceedings of the 6th SANKEN (I.S.I.R) International Symposium on New Trends in Knowledge Processing, Data mining, Seamntic Web and Computational Science pp.87-88 (2003)
 
-# <a id="section-7"> 研究会・全国大会 （第１著者）</a>
+# <a id="section-8">研究会・全国大会</a>
+
+## <a id="section-8-1">研究会・全国大会 （第１著者）</a>
 1. <u>森田 武史</u>，萬 礼応，小篠 裕子，西村 良太，高橋 正樹，中野 有紀子，斎藤 英雄，山口 高平，"統合知能アプリケーション開発プラットフォームPRINTEPSとその応用事例"，2017年度人工知能学会全国大会（第32回），4G1-OS-14a-2 (2017/5/26)
 1. <u>森田 武史</u>，西村 良太，山口 高平, "ROSに基づく総合知能アプリケーション開発プラットフォームPRINTEPSとその応用"，人工知能学会，第108回 知識ベースシステム研究会 (2016/6/5)
 1. <u>森田 武史</u>，西村 良太，山口 高平, "ROSに基づく総合知能アプリケーション開発プラットフォームPRINTEPSのアーキテクチャ"，2016年度人工知能学会全国大会（第31回），4C4-1 (2016/6/9)
@@ -117,7 +136,7 @@ permalink: /publications-ja/
 1. <u>森田 武史</u>, 繁田 佳宏, 杉浦 直樹, 福田 直樹, 和泉 憲明, 山口 高平, "セマンティックWebのためのオントロジー構築支援環境DODDLE-Rの実装", 第18回 人工知能学会全国大会論文集 1G3-01 (2004/6/2) DOI: [10.11517/pjsai.JSAI04.0.75.0](http://doi.org/10.11517/pjsai.JSAI04.0.75.0)
 1. <u>森田 武史</u>, 和泉 憲明, 福田 直樹, 山口 高平, "セマンティックWebのためのメタモデル管理ツール", 第17回 人工知能学会全国大会論文集 1G2-05 (2003/6/25) DOI: [10.11517/pjsai.JSAI03.0.90.0](http://doi.org/10.11517/pjsai.JSAI03.0.90.0)
 
-# <a id="section-8"> 研究会・全国大会 （共著）</a>
+## <a id="section-8-2">研究会・全国大会 （共著）</a>
 1. 中島 雅貴，小篠 裕子，萬 礼応，<u>森田 武史</u>，高橋 正樹，斎藤 英雄，"ロボット喫茶店における飲み終わりを考慮した給仕タイミングの検討"，2017年度人工知能学会全国大会（第32回），4G1-OS-14a-3 (2017/5/26)
 1. 川上 時生，<u>森田 武史</u>，山口 高平，"英語版Wikipediaオントロジー構築とYAGOとの比較評価"，2017年度人工知能学会全国大会（第32回），1N2-OS-39a-3 (2017/5/23)
 1. 阿部 秀尚，<u>森田 武史</u>，山口 高平, "ROS環境上での機械学習実行モジュールの設計と実装", 第79回 情報処理学会全国大会，4C-05 (2017/3/17)
@@ -175,7 +194,7 @@ permalink: /publications-ja/
 1.	神谷 慎吾, 石橋 昌彦, <u>森田 武史</u>, 福田 直樹, 飯島 正, 山口 高平, "オントロジーを用いた分析クラス図作成支援", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-15 Vol.105 No.208 pp.25-30 (2005/7/26)
 1.	洪 潤基, <u>森田 武史</u>, 飯島 正, 小出 誠二, 山口 高平, "日本語DODDLEに基づくロケット運用オントロジーの構築と評価", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-1 Vol.105 No.48 pp.1-6 (2005/5/16)
 
-# <a id="section-9"> 学会誌記事
+# <a id="section-9">学会誌記事
 1.	<u>森田 武史</u>,  古崎 晃司, "特集 「2016 年度人工知能学会全国大会（第 30 回）」 OS-19「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.31 NO.6 pp. 896 (2016)
 1.	古崎 晃司, <u>森田 武史</u>, "特集 「2015 年度人工知能学会全国大会（第 29 回）」 OS-8「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.30 NO.6 pp. 779 (2015)
 1.	<u>森田 武史</u>, "「編集委員今年の抱負 2013」 ウェブ担当の今年の抱負", 人工知能学会誌 Vol.28 No.1 p.37, (2013)
@@ -188,16 +207,19 @@ permalink: /publications-ja/
 1.	<u>森田 武史</u>, "「博士論文特集」 セマンティックWebコンテンツ構築支援ツールの実装と評価", 人工知能学会誌 Vol.24 No.1 p.114 (2009)
 1.	<u>森田 武史</u>, "「編集委員今年の抱負2009：経糸から横糸まで」 電子化担当の今年の抱負", 人工知能学会誌 Vol.24 No.1 p.27 (2009)
 
-# <a id="section-10"> 博士論文</a>
+# <a id="section-10">学位論文</a>
+
+## <a id="section-10-1">博士論文</a>
 - <u>森田 武史</u>, "セマンティックWebコンテンツ構築支援ツールの実装と評価", 慶應義塾大学 大学院 理工学研究科, 博士論文 (2008)
 
-# <a id="section-11"> 修士論文</a>
+## <a id="section-10-2">修士論文</a>
 - <u>森田 武史</u>, "セマンティックWebにおけるオントロジー構築支援環境の実現", 静岡大学 大学院 情報学研究科, 修士論文 (2005)
 
-# <a id="section-12"> 卒業論文</a>
+## <a id="section-10-3">卒業論文</a>
 - <u>森田 武史</u>, "セマンティック・ウェブのためのメタモデル管理ツール", 静岡大学  情報学部 情報科学科, 卒業論文 (2003)
 
-# <a id="section-13"> 研究資金（代表）</a>
+# <a id="section-11">研究資金</a>
+## <a id="section-11-1"> 研究資金（代表）</a>
 
 |2015年度〜2017年度 |文部科学省: 科学研究費補助金(若手研究(B)) (研究課題番号：15K16090)<br/>「大規模多言語RDFグラフからのクラススキーマ階層の構築および洗練」<br/>（研究代表：森田武史）|
 |2012年度〜2013年度 |文部科学省: 科学研究費補助金(若手研究(B)) (研究課題番号：24700150)<br/>「WikipediaとWordNetの統合に基づくプロパティ付きクラス階層の構築」<br/>（研究代表：森田武史）|
@@ -206,9 +228,29 @@ permalink: /publications-ja/
 
 <br/>
 
-# <a id="section-14"> 研究資金（分担）</a>
+## <a id="section-11-2"> 研究資金（分担）</a>
 
 |2014年度〜2017年度   | 文部科学省：科学研究費補助金(基盤研究(A)) (研究課題番号：14432044)<br/>「オントロジーとデータマイニングに基づくインテリジェントサービス開発基盤」<br/>（研究分担）（研究代表：山口高平）|
 |2013年7月〜2014年3月 | 国土技術政策総合研究所 委託研究<br/>「都市・地域交通における防災・減災機能の向上にも資するITS技術に関する研究」<br/>（研究分担）（研究代表：片山功三）|
 |2012年度 |文部科学省: 科学研究費補助金(基盤研究(B))（研究課題番号：22300036）<br/>「学際的学問分野のＢＯＫ策定を事例とした知の創成と検証支援システムの研究・開発」<br/>（研究分担）（研究代表：増永良文）|
+
+
+# <a id="section-12">報道</a>
+1. CNET Japan（Web），<a href="https://japan.cnet.com/release/30144074/">一般社団法人情報システム学会　設立10周年記念論文賞表彰式及び講演会を開催</a> (2016/5/14)
+1. 日刊工業新聞 朝刊6面，<a href="https://www.nikkan.co.jp/articles/view/00384127">接客ロボへ指示容易　慶大　作業プログラム用意</a> (2016/5/4)
+
+# <a id="section-13">ソフトウェア</a>
+
+## <a id="section-13-1">自身で研究開発したソフトウェア</a>
+* [JWO Refinement Tools](http://wikipedia-ontology.github.io/JWO_Refinement_Tools/)
+* [SmaphoProbe](https://github.com/smaphoprobe/SmaphoProbe)
+* [日本語Wikipediaオントロジー検索インタフェース＆Web APIs](https://github.com/t-morita/wikipedia_ontology_search)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://github.com/doddle-owl/DODDLE-OWL)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mr-3.github.io)
+
+## <a id="section-13-2">研究開発に関わったソフトウェアやリソース</a>
+* [実践知能アプリケーション開発プラットフォーム PRINTEPS](http://printeps.org)
+* [WikiBOK](https://github.com/WikiBok)
+* [日本語Wikipediaオントロジー](https://osdn.jp/projects/wikipedia-ont/)
+
 
