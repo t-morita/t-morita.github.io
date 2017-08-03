@@ -1,18 +1,15 @@
 ---
 layout: ja_page
-ja_title: 活動
+ja_title: 学会および社会における活動
 permalink: /activity-ja/
 ---
 
-* [学会および社会における活動等](#section-1)
-    * [所属学会](#section-1-1)
-    * [国内委員](#section-1-2)
-    * [国際会議委員](#section-1-3)
-    * [論文査読者](#section-1-4)
+* [所属学会](#section-1)
+* [国内委員](#section-2)
+* [国際会議委員](#section-3)
+* [論文査読者](#section-4)
 
-# <a id="section-1">学会および社会における活動等</a>
-
-## <a id="section-1-1">所属学会</a>
+# <a id="section-1">所属学会</a>
 
 |2003年4月 - 現在| 人工知能学会|
 |2006年10月 - 現在| 情報システム学会|
@@ -20,7 +17,7 @@ permalink: /activity-ja/
 |2011年7月 - 現在| 日本データベース学会|
 |2013年4月 - 現在| 電子情報通信学会|
 
-## <a id="section-1-2">国内委員</a>
+# <a id="section-2">国内委員</a>
 
 |2008年6月 - 2014年6月| 人工知能学会 WWW・メーリングリスト管理 スーパーバイザ|
 |2008年6月 - 2014年6月| 人工知能学会 編集委員|
@@ -46,7 +43,7 @@ permalink: /activity-ja/
 |2017年5月            |第31回 人工知能学会全国大会 OS-39 Linked Dataとナレッジグラフ オーガナイザ|
 
 
-## <a id="section-1-3">国際会議委員</a>
+# <a id="section-3">国際会議委員</a>
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
 * The 7th International Conference of Practical Aspects on Knowledge Management(PAKM2008), Programme Committee 
 * The 7th International Conference of Practical Aspects on Knowledge Management (PAKM2008), Local Organizing Committee
@@ -66,7 +63,7 @@ permalink: /activity-ja/
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
 * 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2017), Organizers
 
-## <a id="section-1-4">論文査読者</a>
+# <a id="section-4">論文査読者</a>
 * 人工知能学会論文誌
 * 電子情報通信学会英文論文誌D
 * 日本ソフトウェア科学会誌
