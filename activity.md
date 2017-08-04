@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activity
-permalink: /activity/
+permalink: /activity.html
 ---
 
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 

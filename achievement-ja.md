@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 ja_title: 業績
-permalink: /achievement-ja/
+permalink: /achievement-ja.html
 ---
 
 * [受賞](#section-1)

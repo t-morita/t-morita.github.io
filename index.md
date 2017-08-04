@@ -24,7 +24,8 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 <tr><th>Degree</th><td>Doctor of engineering</td></tr>
 <tr><th>Office address</th><td>3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522</td></tr>
 <tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
-<tr><th>Web site</th><td><a href="http://takeshi-morita.jp/">http://takeshi-morita.jp/</a></td></tr>
+<tr><th>Web site (English)</th><td><a href="http://takeshi-morita.jp/">http://takeshi-morita.jp/</a></td></tr>
+<tr><th>Web site (Japanese)</th><td><a href="http://takeshi-morita.jp/index-ja.html">http://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>
 
 # Selected Papers
@@ -46,3 +47,12 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 * [researchmap - t_morita](http://researchmap.jp/t_morita/)
 * [ResearchGate - Takeshi_Morita4](https://www.researchgate.net/profile/Takeshi_Morita4)
 
+# Site Map
+* [Career](./career.html)
+	* Education, Employment
+* [Achievement](./achievement.html)
+	* Journal Articles, Papers in Refereed Conferences and Workshops, Poster Papers, Software
+* [Research](./research.html)
+	* Introducing journal articles
+* [Activity](./activity.html)
+	* Listing international academic activities

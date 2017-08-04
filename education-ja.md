@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 ja_title: 教育
-permalink: /education-ja/
+permalink: /education-ja.html
 ---
 
 # 教育活動歴

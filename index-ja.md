@@ -10,7 +10,7 @@ permalink: /index-ja.html
   </section>
   <section class="right">
 <h1>略歴</h1>
-2003年 静岡大学 情報学部 情報科学科卒．2005年 同大学院 情報学研究科 修士課程修了．2007年 日本学術振興会特別研究員(DC2)．2008年 慶應義塾大学大学院 理工学研究科 後期博士課程修了．同年，日本学術振興会 特別研究員(PD)．2009年 慶應義塾大学大学院 理工学研究科 特別研究助教．2011年 青山学院大学 社会情報学部助手．2014年 同助教．2015年より慶應義塾大学 理工学 管理工学科 専任講師(有期)．現在に至る．博士(工学)．セマンティック Webとオントロジーに関する研究に従事．人工知能学会，情報システム学会，ACM，日本データベース学会，電子情報通信学会の各会員．
+2003年 静岡大学 情報学部 情報科学科卒．2005年 同大学院 情報学研究科 修士課程修了．2007年 日本学術振興会特別研究員(DC2)．2008年 慶應義塾大学大学院 理工学研究科 後期博士課程修了．同年，日本学術振興会 特別研究員(PD)．2009年 慶應義塾大学大学院 理工学研究科 特別研究助教．2011年 青山学院大学 社会情報学部助手．2014年 同助教．2015年より慶應義塾大学 理工学 管理工学科 専任講師(有期)．現在に至る．博士(工学)．セマンティックWebとその応用，オントロジー自動構築（オントロジー学習）に関する研究に従事．人工知能学会，情報システム学会，ACM，日本データベース学会，電子情報通信学会の各会員．
   </section>
 </div>
 
@@ -22,7 +22,8 @@ permalink: /index-ja.html
 <tr><th>学位</th><td>博士（工学）</td></tr>
 <tr><th>勤務先 所在地</th><td>〒223-8522 横浜市港北区日吉3-14-1 <br/> 慶應義塾大学 理工学部 管理工学科 矢上キャンパス 23棟621室</td> </tr>
 <tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
-<tr><th>Webサイト</th><td><a href="http://takeshi-morita.jp/index-ja.html">http://takeshi-morita.jp/index-ja.html</a></td></tr>
+<tr><th>Webサイト (English)</th><td><a href="http://takeshi-morita.jp/">http://takeshi-morita.jp/</a></td></tr>
+<tr><th>Webサイト (日本語)</th><td><a href="http://takeshi-morita.jp/index-ja.html">http://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>
 
 # 主な論文
@@ -44,3 +45,15 @@ permalink: /index-ja.html
 * [SlideShare - Takeshi Morita](http://www.slideshare.net/takeshimorita)
 * [researchmap - t_morita](http://researchmap.jp/t_morita/)
 * [ResearchGate - Takeshi_Morita4](https://www.researchgate.net/profile/Takeshi_Morita4)
+
+# サイトマップ
+* [経歴](./career-ja.html)
+	* 略歴，学歴，学位，職歴，資格
+* [業績](./achievement-ja.html)
+	* 受賞，著書，学術論文，国際会議論文，招待講演，総説・解説，国際会議，ポスター発表，研究会・全国大会，学会誌記事 学位論文，研究資金，報道 ソフトウェア
+* [研究](./research-ja.html)
+	* 論文誌論文の紹介
+* [教育](./education-ja.html)
+	* 教育活動歴，大学院人材育成プログラム，担当講義
+* [活動](./activity-ja.html)
+	* 学会および社会における活動，所属学会，国内委員，国際会議委員，論文査読

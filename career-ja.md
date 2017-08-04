@@ -1,7 +1,7 @@
 ---
 layout: ja_page
 ja_title: 経歴
-permalink: /career-ja/
+permalink: /career-ja.html
 ---
 
 * [略歴](#section-1)

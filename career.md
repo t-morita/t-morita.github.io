@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career
-permalink: /career/
+permalink: /career.html
 ---
 
 # Education

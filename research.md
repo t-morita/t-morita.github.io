@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research.html
 ---
 
 * [Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment](#section-16)

@@ -1,13 +1,13 @@
 ---
 layout: ja_page
 ja_title: 学会および社会における活動
-permalink: /activity-ja/
+permalink: /activity-ja.html
 ---
 
 * [所属学会](#section-1)
 * [国内委員](#section-2)
 * [国際会議委員](#section-3)
-* [論文査読者](#section-4)
+* [論文査読](#section-4)
 
 # <a id="section-1">所属学会</a>
 
@@ -63,7 +63,7 @@ permalink: /activity-ja/
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
 * 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2017), Organizers
 
-# <a id="section-4">論文査読者</a>
+# <a id="section-4">論文査読</a>
 * 人工知能学会論文誌
 * 電子情報通信学会英文論文誌D
 * 日本ソフトウェア科学会誌

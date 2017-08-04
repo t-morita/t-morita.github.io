@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Achievement
-permalink: /achievement/
+permalink: /achievement.html
 ---
 
 * [Journal Articles](#journal-articles)
