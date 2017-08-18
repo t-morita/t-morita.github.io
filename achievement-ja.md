@@ -37,7 +37,14 @@ permalink: /achievement-ja.html
 | 2006年10月 | 慶應義塾大学 国際会議論文発表奨励賞 <br/>  受賞者：<u>森田 武史</u>|
 
 # <a id="section-2">著書</a>
-1.	<u>森田 武史</u>, 山口 高平，"オントロジーの普及と応用 (担当： 3章オントロジー学習の現状と動向)"，來村徳信 (著), 人工知能学会 (編集) ，オーム社 (2012) ISBN-13: 978-4274211997
+1. "人工知能学大事典", 人工知能学会（編集），共立出版(2017) ISBN-13: 978-4320124202
+	* <u>森田 武史</u>, 第18章 知識工学とセマンティックテクノロジー，18-13 大規模知識モデリングと集合知アプローチ, pp. 1275-1276
+	* <u>森田 武史</u>, 第18章 知識工学とセマンティックテクノロジー，18-21 オントロジー学習（オントロジー半自動構築）, pp. 1292-1293
+	* <u>森田 武史</u>, 第19章 ナレッジマネジメント，19-3 BRMSとBPR, pp. 1340-1341
+	* <u>森田 武史</u>, 第19章 ナレッジマネジメント，19-4 ナレッジマネジメントにおけるオントロジー利用, pp. 1342-1344
+
+1. "オントロジーの普及と応用"，來村徳信 (著), 人工知能学会 (編集) ，オーム社 (2012) ISBN-13: 978-4274211997
+	* <u>森田 武史</u>, 山口 高平，3章 オントロジー学習の現状と動向, pp. 39-65
 
 # <a id="section-3">学術論文</a>
 1. Ryutaro Nambu, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment", The Review of Socionetwork Strategies, Vol. 11, Issue 1, pp. 1-16 (2017) [10.1007/s12626-017-0003-4](https://doi.org/10.1007/s12626-017-0003-4)
@@ -246,7 +253,7 @@ permalink: /achievement-ja.html
 * [SmaphoProbe](https://github.com/smaphoprobe/SmaphoProbe)
 * [日本語Wikipediaオントロジー検索インタフェース＆Web APIs](https://github.com/t-morita/wikipedia_ontology_search)
 * [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://github.com/doddle-owl/DODDLE-OWL)
-* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mr-3.github.io)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mrcube.org/)
 
 ## <a id="section-13-2">研究開発に関わったソフトウェアやリソース</a>
 * [実践知能アプリケーション開発プラットフォーム PRINTEPS](http://printeps.org)

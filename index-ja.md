@@ -35,7 +35,7 @@ permalink: /index-ja.html
 
 # 自身で研究開発した主なソフトウェア
 * [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://github.com/doddle-owl/DODDLE-OWL)
-* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mr-3.github.io)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mrcube.org/)
 
 # 個人リンク
 * [Google Scholar Citation - Takeshi Morita](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
