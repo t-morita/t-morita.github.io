@@ -34,7 +34,7 @@ permalink: /index-ja.html
 * <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
 # 自身で研究開発した主なソフトウェア
-* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://github.com/doddle-owl/DODDLE-OWL)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](http://doddle-owl.org/)
 * [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mrcube.org/)
 
 # 個人リンク
