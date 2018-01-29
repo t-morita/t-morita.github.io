@@ -62,9 +62,15 @@ permalink: /achievement-ja.html
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
 # <a id="section-4">国際会議論文</a>
-1. Chihiro Nishimoto, Shunsuke Akashiba, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Teaching Assistant Robot Development by PRINTEPS", Robots 4 Learning, HRI2017 (2017)
+1. Tokio Kawakami, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "Building Wikipedia Ontology with More Semi-Structured Information Resources", JIST2017, LNCS, vol.10675, pp.3-18 (2017) DOI: [10.1007/978-3-319-70682-5_1](https://doi.org/10.1007/978-3-319-70682-5_1)
+1. Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, <u>Takeshi Morita</u>, Reiji Kukihara, Misae Kuwayama, and Takahira Yamaguchi, “Implementation of Teacher-Robot Collaboration Lesson Application in PRINTEPS”, KES2017, Vol.112, pp.2299-2308 (2017) DOI: [10.1016/j.procs.2017.08.264](https://doi.org/10.1016/j.procs.2017.08.264)
+1. Kodai Nakamura, <u>Takeshi Morita</u>, and Takahira Yamaguchi, “A User-Centric Platform PRINTEPS to Develop Integrated Intelligent Applications and Application to Robot Teahouse”, KES2017, Vol. 112, Issue C, pp.2309-2318 (2017) DOI: [10.1016/j.procs.2017.08.266](https://doi.org/10.1016/j.procs.2017.08.266)
+1. Takahira Yamaguchi and Takeshi Morita, "Agile Acceptance of Domain Expert’s Feedback with Developing Robot Tea House", 3rd Workshop on Cognitive Knowledge Acquisition and Applications (Cognitum 2017) (2017)
+1. Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, <u>Takeshi Morita</u>, Reiji Kukihara, Misae Kuwayama, and Takahira Yamaguchi, “Development of applications for teaching assistant robots with teachers in PRINTEPS”, 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning, pp.1184-1190 (2017) DOI: [10.1145/3106426.3109412](https://doi.org/10.1145/3106426.3109412)
+1. Kodai Nakamura, <u>Takeshi Morita</u>, and Takahira Yamaguchi, “PRINTEPS for development integrated intelligent applications and application to robot teahouse”, 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning, pp.1199-1206 (2017) DOI: [10.1145/3106426.3109413](https://doi.org/10.1145/3106426.3109413)
+1. Chihiro Nishimoto, Shunsuke Akashiba, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "Teaching Assistant Robot Development by PRINTEPS", Robots 4 Learning, HRI2017 (2017)
 1. Hiroshi Asano, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "Development and Evaluation of an Operational Service Robot Using Wikipedia-based and Domain Ontologies", 2016 IEEE/WIC/ACM International Conference on Web Intelligence, pp.511-514 (2016) DOI: [10.1109/WIW.2016.035](https://doi.org/10.1109/WIW.2016.035)
-1. Hiroshi Asano, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "A Question Answering System with Wikipedia-based and Domain Ontologies", 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning, pp. 84-87 (2016)
+1. Hiroshi Asano, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "A Question Answering System with Wikipedia-based and Domain Ontologies", 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning, pp.84-87 (2016)
 1. Chihiro Nishimoto, Shunsuke Akashiba, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Implementation and Evaluation of Classroom AI in PRINTEPS". 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning, pp.100-103 (2016)
 1. Ryutaro Nambu, Tatsuya Kimoto, <u>Takeshi Morita</u>, and Takahira Yamaguchi, "Integrating Smart Glasses with Question-answering Module in Assistant Work Environment", Knowledge-Based and Intelligent Information & Engineering Systems 20th Annual Conference, KES-2016, Vol. 96, pp. 1772-1781 (2016) DOI: [10.1016/j.procs.2016.08.226](http://dx.doi.org/10.1016/j.procs.2016.08.226) 
 1. <u>Takeshi Morita</u>, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Integrating Symbols and Signals Based on Stream Reasoning and ROS", 14th Pacific Rim Knowledge Acquisition Workshop (PKAW 2016), LNAI Vol. 9806, pp. 251-260 (2016) DOI: [10.1007/978-3-319-42706-5_19](http://dx.doi.org/10.1007/978-3-319-42706-5_19)
@@ -103,6 +109,7 @@ permalink: /achievement-ja.html
 1. <u>森田 武史</u>, "日本語Wikipediaからの大規模オントロジーの半自動構築と応用", 電子情報通信学会 第21回Webインテリジェンスとインタラクション研究会 IEICE SIG Notes, WI2-2011-T06 pp.17-18, (2011/11/7)
 
 # <a id="section-6">総説・解説</a>
+1. 山口 高平，<u>森田武史</u>，"統合知能アプリケーション開発プラットフォームPRINTEPS"，人工知能学会誌 Vol.32 No.5, pp.721-729 (2017)
 1. 川村 隆浩, <u>森田 武史</u>, 福田 直樹，"Linked Dataとセマンティック技術の海外動向"，人工知能学会誌 Vol.30 No.5 pp.580-589 (2015)
 1. <u>森田 武史</u>，山口 高平, "業務ルール管理システムBRMSの現状と動向", 人工知能学会誌 Vol. 29 No.3 pp.277-285 (2014) 
 1. <u>森田 武史</u>, 山口 高平, "Linked Dataを利用した情報統合", 人工知能学会誌 Vol. 27 No.2 pp.189-199 (2012)
@@ -123,6 +130,7 @@ permalink: /achievement-ja.html
 # <a id="section-8">研究会・全国大会</a>
 
 ## <a id="section-8-1">研究会・全国大会 （第１著者）</a>
+1. <u>森田 武史</u>，柏木 菜帆，萬 礼応，鈴木 秀男，山口 高平，"マルチロボット喫茶店の実践とサービス品質の評価"，第13回情報システム学会全国大会・研究発表大会，S2-B.4 (2017/12/2)
 1. <u>森田 武史</u>，萬 礼応，小篠 裕子，西村 良太，高橋 正樹，中野 有紀子，斎藤 英雄，山口 高平，"統合知能アプリケーション開発プラットフォームPRINTEPSとその応用事例"，2017年度人工知能学会全国大会（第32回），4G1-OS-14a-2 (2017/5/26)
 1. <u>森田 武史</u>，西村 良太，山口 高平, "ROSに基づく総合知能アプリケーション開発プラットフォームPRINTEPSとその応用"，人工知能学会，第108回 知識ベースシステム研究会 (2016/6/5)
 1. <u>森田 武史</u>，西村 良太，山口 高平, "ROSに基づく総合知能アプリケーション開発プラットフォームPRINTEPSのアーキテクチャ"，2016年度人工知能学会全国大会（第31回），4C4-1 (2016/6/9)
