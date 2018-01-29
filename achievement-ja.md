@@ -11,9 +11,10 @@ permalink: /achievement-ja.html
 * [招待講演](#section-5)
 * [総説・解説](#section-6)
 * [国際会議 ポスター発表](#section-7)
-* [研究会・全国大会](#section-8)
+* [研究会・全国大会・その他](#section-8)
 	* [研究会・全国大会 （第１著者）](#section-8-1)
 	* [研究会・全国大会 （共著）](#section-8-2)
+	* [その他](#section-8-3)
 * [学会誌記事](#section-9)
 * [学位論文](#section-10)
 	* [博士論文](#section-10-1)
@@ -127,7 +128,7 @@ permalink: /achievement-ja.html
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "DODDLE-OWL: On-the-fly Ontology Construction with Ontology Quality Management", In Poster & Demonstration Proceedings of the 3rd International Semantic Web Conference  p.47 (2004)
 1. Noriaki Izumi, <u>Takeshi Morita</u>, Naoki Fukuta, Takahira Yamaguchi, "RDF-based Meta-Model Management Environment", Proceedings of the 6th SANKEN (I.S.I.R) International Symposium on New Trends in Knowledge Processing, Data mining, Seamntic Web and Computational Science pp.87-88 (2003)
 
-# <a id="section-8">研究会・全国大会</a>
+# <a id="section-8">研究会・全国大会・その他</a>
 
 ## <a id="section-8-1">研究会・全国大会 （第１著者）</a>
 1. <u>森田 武史</u>，柏木 菜帆，萬 礼応，鈴木 秀男，山口 高平，"マルチロボット喫茶店の実践とサービス品質の評価"，第13回情報システム学会全国大会・研究発表大会，S2-B.4 (2017/12/2)
@@ -208,6 +209,9 @@ permalink: /achievement-ja.html
 1.	神谷 慎吾, 石橋 昌彦, <u>森田 武史</u>, 山口 高平, "業務概念体系（オントロジー）に基づく概念クラス図構築支援", 情報システム学会 第1回研究発表大会 B-03 (2005/11/26)
 1.	神谷 慎吾, 石橋 昌彦, <u>森田 武史</u>, 福田 直樹, 飯島 正, 山口 高平, "オントロジーを用いた分析クラス図作成支援", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-15 Vol.105 No.208 pp.25-30 (2005/7/26)
 1.	洪 潤基, <u>森田 武史</u>, 飯島 正, 小出 誠二, 山口 高平, "日本語DODDLEに基づくロケット運用オントロジーの構築と評価", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-1 Vol.105 No.48 pp.1-6 (2005/5/16)
+
+## <a id="section-8-3">その他</a>
+1. <u>森田 武史</u>，"みんなのAIツール「PRINTEPS」体験ワークショップ"，第1回クラスルームAIシンポジウム (2017/11/18)
 
 # <a id="section-9">学会誌記事
 1.	<u>森田 武史</u>,  古崎 晃司, "特集 「2016 年度人工知能学会全国大会（第 30 回）」 OS-19「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.31 NO.6 pp. 896 (2016)
