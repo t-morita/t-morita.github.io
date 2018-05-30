@@ -24,3 +24,6 @@ permalink: /activity.html
 * The 3rd International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2016), Program Committee
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
 * 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2017), Organizers
+* The 8th Joint International Semantic Technology (JIST2016), Publicity Chairs
+* The 1st IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice (AIML2018), Program Committee
+* The Sixth International Symposium on Computing and Networking (CANDAR'18), Program Committee

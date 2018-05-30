@@ -27,6 +27,8 @@ permalink: /index-ja.html
 </table>
 
 # 主な論文
+* <u>Takeshi Morita</u>, Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, Reiji Kukihara, Misae Kuwayama, Takahira Yamaguchi, "A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS", The Review of Socionetwork Strategies, Springer (2018) DOI: [10.1007/s12626-018-0021-x](https://doi.org/10.1007/s12626-018-0021-x)
+* <u>Takeshi Morita</u>, Kodai Nakamura, Hiroki Komatsushiro, Takahira Yamaguchi, "PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS", The Review of Socionetwork Strategies, Springer (2018) DOI: [10.1007/s12626-018-0020-y](https://doi.org/10.1007/s12626-018-0020-y)
 * <u>Takeshi Morita</u>, Chie Iijima, Wataru Okawara, Yoshitaro Enomoto, Takahira Yamaguchi, "Implementing Mobility Service with Japanese Linked Data", International Journal of Computational Intelligence Studies, Vol. 5, No. 3/4, pp.267-288 (2016) DOI: [10.1504/IJCISTUDIES.2016.083573](https://doi.org/10.1504/IJCISTUDIES.2016.083573)
 *	<u>森田 武史</u>，洪 潤基，斎藤 忍，飯島 正，山口 高平，"SCOR オントロジーに基づく生産管理プロセスモデリング支援ツールの実装"，情報システム学会誌，Vol.11 No.1 pp.13-47 (2015) DOI: [10.19014/jissj.11.1_13](http://doi.org/10.19014/jissj.11.1_13)
 * <u>Takeshi Morita</u>, Yuka Sekimoto, Susumu Tamagawa and Takahira Yamaguchi, "Building up a class hierarchy with properties by refining and integrating Japanese Wikipedia Ontology and Japanese WordNet", Web Intelligence and Agent Systems: An International Journal, Volume 12, Number 2, pp. 211-233, IOS Press (2014) DOI: [10.3233/WIA-140293](http://dx.doi.org/10.3233/WIA-140293)

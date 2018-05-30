@@ -9,6 +9,9 @@ permalink: /research-ja.html
 
 これまでに取り組んできた主な研究テーマとその概要は，以下のとおりです．
 
+
+* [A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS](#section-19)</a>
+* [PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS](#section-18)</a>
 * [Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment](#section-17)
 * [Integrating Symbols and Signals Based on Stream Reasoning and ROS](#section-16)
 * [Development and Evaluation of an Operational Service Robot Using Wikipedia-based and Domain Ontologies](#section-15)
@@ -26,6 +29,24 @@ permalink: /research-ja.html
 * [エンタープライズアプリケーションオントロジーに基づく業務アプリケーション開発支援](#section-3)
 * [DODDLE-OWL: Interactive Domain Ontology Development with Open Source Software in Java](#section-2)
 * [A Graphical RDF-based Meta-Model Management Tool](#section-1)
+
+
+# <a id="section-19">A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS</a>
+
+## Abstract
+To support elementary school teachers in teaching by encouraging active learning while maintaining the interest of pupils, this study focuses on supporting teaching, learning, and monitoring the progress of students through a Teacher–Robot collaboration lesson application using not only laptops and tablets, but also robots and sensors. Since developing a lesson application is time consuming for teachers, we have developed an integrated intelligent application development platform named PRactical INTElligent aPplicationS (PRINTEPS) to aid Teacher–Robot collaboration. However, several functions and interfaces for education are missing. Therefore, in this study, we extend several functions for education to PRINTEPS. In addition, since it is necessary in learning and monitoring the progress of students to present learning content suitable to each pupil’s level of understanding, we also have provided support through the use of a tablet quiz system based on ontologies and rule bases. In the case study, we developed a Teacher–Robot collaboration lesson application and conducted lessons for sixth-grade pupils at an elementary school. From the case study, we have confirmed the effectiveness of our platform and the application.
+
+## Related paper
+* <u>Takeshi Morita</u>, Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, Reiji Kukihara, Misae Kuwayama, Takahira Yamaguchi, "A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS", The Review of Socionetwork Strategies, Springer (2018) DOI: [10.1007/s12626-018-0021-x](https://doi.org/10.1007/s12626-018-0021-x)
+
+
+# <a id="section-18">PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS</a>
+
+## Abstract
+Although AI and service robot applications have become very popular in many domains recently, many of them are specific applications and it is still difficult to develop integrated intelligent applications such as a robot teahouse and teaching assistant robots. To develop such integrated intelligent applications, we need integrated intelligent application platforms that have AI integration and agile process facilities. From the above background, we are currently developing PRactical INTElligent aPplicationS (PRINTEPS), which is a platform for developing integrated intelligent applications by combining only five types of modules, namely knowledge-based reasoning, spoken dialogue, image sensing, motion management, and machine learning. This paper proposes a workflow editor in PRINETPS based on a service-oriented architecture and a Robot Operating System that enables real-time parallel processing for multiple robots and sensors by integrating the five types of modules. The editor also supports not only developers but also domain experts in updating workflows frequently. This paper also proposes a novel method to integrate signals acquired through image sensing with knowledge (ontologies and business rules) using C-SPARQL and Semantic Web Rule Language. To evaluate PRINTEPS, we developed a robot teahouse application including customer reception and guidance to table services using a humanoid robot with PRINTEPS. Through this case study, we demonstrated that the behaviors of the robot can be modified by changing the workflow, the ontology, and the rules.
+
+## Related paper
+* <u>Takeshi Morita</u>, Kodai Nakamura, Hiroki Komatsushiro, Takahira Yamaguchi, "PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS", The Review of Socionetwork Strategies, Springer (2018) DOI: [10.1007/s12626-018-0020-y](https://doi.org/10.1007/s12626-018-0020-y)
 
 # <a id="section-17">Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment</a>
 
