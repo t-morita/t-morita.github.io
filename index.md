@@ -43,7 +43,7 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 
 # Personal Links
 * [Google Scholar Citation - Takeshi Morita](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
-* [DBLP - Takeshi Morita 0001](http://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
+* [DBLP - Takeshi Morita 0001](https://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
 * [GitHub - t-morita](https://github.com/t-morita)
 * [SlideShare - Takeshi Morita](http://www.slideshare.net/takeshimorita)
 * [researchmap - t_morita](http://researchmap.jp/t_morita/)

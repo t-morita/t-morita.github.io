@@ -41,7 +41,7 @@ permalink: /index-ja.html
 
 # 個人リンク
 * [Google Scholar Citation - Takeshi Morita](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
-* [DBLP - Takeshi Morita 0001](http://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
+* [DBLP - Takeshi Morita 0001](https://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
 * [CiNii - 森田 武史](http://ci.nii.ac.jp/nrid/9000001579532)
 * [GitHub - t-morita](https://github.com/t-morita)
 * [SlideShare - Takeshi Morita](http://www.slideshare.net/takeshimorita)
