@@ -4,8 +4,8 @@ title: Research
 permalink: /research.html
 ---
 
-* [A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS](#section-19)</a>
-* [PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS](#section-18)</a>
+* [A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS](#section-19)
+* [PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS](#section-18)
 * [Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment](#section-16)
 * [Integrating Symbols and Signals Based on Stream Reasoning and ROS](#section-15)
 * [Development and Evaluation of an Operational Service Robot Using Wikipedia-based and Domain Ontologies](#section-14)
