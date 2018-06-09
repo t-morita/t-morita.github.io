@@ -5,7 +5,7 @@ permalink: /activity.html
 ---
 
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
-* The 7th International Conference of Practical Aspects on Knowledge Management(PAKM2008), Programme Committee 
+* The 7th International Conference of Practical Aspects on Knowledge Management(PAKM2008), Scientific Committee 
 * The 7th International Conference of Practical Aspects on Knowledge Management (PAKM2008), Local Organizing Committee
 * The 4th Annual Asian Semantic Web Conference (ASWC2009), Additional Reviewer  
 * The 3rd International Conference on Knowledge Science, Engineering and Management (KSEM2009), Programme Committee
