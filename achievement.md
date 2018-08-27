@@ -19,6 +19,7 @@ permalink: /achievement.html
 1.	<u>Takeshi Morita</u>, Yuka Sekimoto, Susumu Tamagawa and Takahira Yamaguchi, "Building up a class hierarchy with properties by refining and integrating Japanese Wikipedia Ontology and Japanese WordNet", Web Intelligence and Agent Systems: An International Journal, Volume 12, Number 2, pp. 211-233, IOS Press, DOI: [10.3233/WIA-140293](http://dx.doi.org/10.3233/WIA-140293)(2014) 
 1.	<u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "DODDLE-OWL: Interactive Domain Ontology Development with Open Source Software in Java", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E91-D No.4 pp.945-958, DOI: [10.1093/ietisy/e91-d.4.945](http://dx.doi.org/10.1093/ietisy/e91-d.4.945)(2008) 
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377, DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368) (2006) 
+{: reversed="reversed"}
 
 # Domestic Journal Articles
 1. Takahiro Sugiyama, Yu Ono, Takuya Makiyama, <u>Takeshi Morita</u>, Hiroaki Kogusur, Hideyuki Tejima, Takahira Yamaguchi, "Development and Demonstration Experiments of Sightseeing Recommendation Application for a Side Trip from the Highway", Journal of Society for Tourism Informatics, Vol.14, No. 1, pp. 27-42 (2018)
@@ -29,6 +30,7 @@ permalink: /achievement.html
 1.	Susumu Tamagawa, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Building up Ontologies with Many Properties from Japanese Wikipedia", Transactions of the Japanese Society for Artificial Intelligence Vol.26 No.4 pp.504-517, DOI: [10.1527/tjsai.26.504](http://dx.doi.org/10.1527/tjsai.26.504)(2011) 
 1.	Susumu Tamagawa, Shinya Sakurai, Takuya Tejima, <u>Takeshi Morita</u>, Noriaki Izumi, Takahira Yamaguchi, "Learning a Large Scale of Ontology from Japanese Wikipedia", Transactions of the Japanese Society for Artificial Intelligence Vol.25 No.5 pp.623-636, DOI: [10.1527/tjsai.25.623](http://dx.doi.org/10.1527/tjsai.25.623)(2010) 
 1.	Keiichi Kondo, <u>Takeshi Morita</u>, Noriaki Izumi, Kôiti Hasida, Takahira Yamaguchi, "Development Support of Business Application Based on Enterprise Application Ongology", Transactions of the Japanese Society for Artificial Intelligence Vol.23 No.6 pp.473-484, DOI: [10.1527/tjsai.23.473](http://dx.doi.org/10.1527/tjsai.23.473)(2008) 
+{: reversed="reversed"}
 
 # Papers in Refereed Conferences and Workshops
 1. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, "Implementing Multi-Robot Cafe by PRINTEPS with Service Quality Dimensions", 22nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2018) (2018) (to appear) 
@@ -73,10 +75,12 @@ permalink: /achievement.html
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "MR<sup>3</sup>: Meta-Model Management Based on RDFs Revision Reflection", Proceedings of the Joint Conference on Knowledge Based Software Engineering, Frontiers in Artificial Intelligence and Applications Vol.108 pp.228-236 (2004)
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "Domain Ontology Constrution with Quality Refinement", Proceedings of the Pacific Rim Knowledge Acquisition Workshop 2004 pp.116-126 (2004)
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Meta-Model Management Environment for RDF Contents", Proceedings of the 2nd International Conference on Global Research and Education Vol.2 pp.307-314 (2003)
+{: reversed="reversed"}
 
 # Invited Talks
 1. Takahira Yamaguchi, <u>Takeshi Morita</u>, "A Platform PRINTEPS to  Develop Practical Artificial Intelligence", Invited Lecture, Knowledge Engineering Group (2017/3/7)
 1. <u>Takeshi Morita</u>, "Implementing Customer Reception Service in Robot Teahouse based on PRINTEPS", Workshop Keynote Talk, 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (2016/10/13)
+{: reversed="reversed"}
 
 # Poster Papers
 1. <u>Takeshi Morita</u>, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Implementing Customer Reception Service in Robot Cafe using Stream Reasoning and ROS based on PRINTEPS", International Semantic Web Conference (Posters & Demos) (2016)
@@ -88,6 +92,7 @@ permalink: /achievement.html
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Building up RDF and RDFS Descriptions with Meta-Model Management", In Poster & Demonstration Proceedings of the 4th International Semantic Web Conference PID28 (2005)
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "DODDLE-OWL: On-the-fly Ontology Construction with Ontology Quality Management", In Poster & Demonstration Proceedings of the 3rd International Semantic Web Conference  p.47 (2004)
 1. Noriaki Izumi, <u>Takeshi Morita</u>, Naoki Fukuta, Takahira Yamaguchi, "RDF-based Meta-Model Management Environment", Proceedings of the 6th SANKEN (I.S.I.R) International Symposium on New Trends in Knowledge Processing, Data mining, Seamntic Web and Computational Science pp.87-88 (2003)
+{: reversed="reversed"}
 
 # Software
 * [PRINTEPS (PRactical INTElligent aPplicationS)](http://printeps.org/index_en.html)

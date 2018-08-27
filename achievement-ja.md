@@ -47,6 +47,7 @@ permalink: /achievement-ja.html
 
 1. "オントロジーの普及と応用"，來村徳信 (編著), 人工知能学会 (編集) ，オーム社 (2012) ISBN-13: 978-4274211997
 	* <u>森田 武史</u>, 山口 高平，3章 オントロジー学習の現状と動向, pp. 39-65
+{: reversed="reversed"}
 
 # <a id="section-3">学術論文</a>
 16. 杉山 岳弘，大野 祐，牧山 宅矢，<u>森田 武史</u>，小薬 洋昭，手嶋 秀之，山口 高平，"高速道路からの立ち寄り観光推薦アプリの開発および実証実験", 観光と情報，第14巻，第1号, pp.27-42 (2018)
@@ -65,6 +66,7 @@ permalink: /achievement-ja.html
 3. 近藤 恵一, <u>森田 武史</u>, 和泉 憲明, 橋田 浩一, 山口 高平, "エンタープライズアプリケーションオントロジーに基づく業務アプリケーション開発支援", 人工知能学会論文誌 Vol.23 No.6 pp.473-484, DOI: [10.1527/tjsai.23.473](http://dx.doi.org/10.1527/tjsai.23.473) (2008)  
 2. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "DODDLE-OWL: Interactive Domain Ontology Development with Open Source Software in Java", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E91-D No.4 pp.945-958, DOI: [10.1093/ietisy/e91-d.4.945](http://dx.doi.org/10.1093/ietisy/e91-d.4.945) (2008) 
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377, DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368) (2006) 
+{: reversed="reversed"}
 
 # <a id="section-4">国際会議論文</a>
 1. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, "Implementing Multi-Robot Cafe by PRINTEPS with Service Quality Dimensions", 22nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2018) (2018) (to appear) 
@@ -109,6 +111,7 @@ permalink: /achievement-ja.html
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "MR<sup>3</sup>: Meta-Model Management Based on RDFs Revision Reflection", Proceedings of the Joint Conference on Knowledge Based Software Engineering, Frontiers in Artificial Intelligence and Applications Vol.108 pp.228-236 (2004)
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "Domain Ontology Constrution with Quality Refinement", Proceedings of the Pacific Rim Knowledge Acquisition Workshop 2004 pp.116-126 (2004)
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Meta-Model Management Environment for RDF Contents", Proceedings of the 2nd International Conference on Global Research and Education Vol.2 pp.307-314 (2003)
+{: reversed="reversed"}
 
 # <a id="section-5">総説・解説</a>
 1. 山口 高平，<u>森田武史</u>，"統合知能アプリケーション開発プラットフォームPRINTEPS"，人工知能学会誌 Vol.32 No.5, pp.721-729 (2017)
@@ -117,12 +120,14 @@ permalink: /achievement-ja.html
 1. <u>森田 武史</u>, 山口 高平, "Linked Dataを利用した情報統合", 人工知能学会誌 Vol. 27 No.2 pp.189-199 (2012)
 1. 山口高平, <u>森田武史</u>，"サービスイノベーションとAIと教育〔第6回〕体感知教育を基軸にしたサービス・イノベーション人材育成"，人工知能学会誌 Vol. 26 No.2 pp.196-202 (2011)
 1. <u>森田 武史</u>, 山口 高平, "オントロジー学習の現状と動向", 人工知能学会誌 Vol.25 No.3 pp.354-365 (2010)
+{: reversed="reversed"}
 
 # <a id="section-6">招待講演</a>
 1. Takahira Yamaguchi, <u>Takeshi Morita</u>, "A Platform PRINTEPS to  Develop Practical Artificial Intelligence", Invited Lecture, Knowledge Engineering Group (2017/3/7)
 1. <u>Takeshi Morita</u>, "Implementing Customer Reception Service in Robot Teahouse based on PRINTEPS", Workshop Keynote Talk, 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (2016/10/13)
 1. <u>森田 武史</u>, "BRMSの進化と今後の課題", AIワークショップ，富士通総研 (2014/7/24)
 1. <u>森田 武史</u>, "日本語Wikipediaからの大規模オントロジーの半自動構築と応用", 電子情報通信学会 第21回Webインテリジェンスとインタラクション研究会 IEICE SIG Notes, WI2-2011-T06 pp.17-18, (2011/11/7)
+{: reversed="reversed"}
 
 
 # <a id="section-7">国際会議 ポスター発表</a>
@@ -135,6 +140,7 @@ permalink: /achievement-ja.html
 1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Building up RDF and RDFS Descriptions with Meta-Model Management", In Poster & Demonstration Proceedings of the 4th International Semantic Web Conference PID28 (2005)
 1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "DODDLE-OWL: On-the-fly Ontology Construction with Ontology Quality Management", In Poster & Demonstration Proceedings of the 3rd International Semantic Web Conference  p.47 (2004)
 1. Noriaki Izumi, <u>Takeshi Morita</u>, Naoki Fukuta, Takahira Yamaguchi, "RDF-based Meta-Model Management Environment", Proceedings of the 6th SANKEN (I.S.I.R) International Symposium on New Trends in Knowledge Processing, Data mining, Seamntic Web and Computational Science pp.87-88 (2003)
+{: reversed="reversed"}
 
 # <a id="section-8">研究会・全国大会・その他</a>
 
@@ -160,6 +166,7 @@ permalink: /achievement-ja.html
 1. <u>森田 武史</u>, 山口 高平, "オントロジーエディタDODDLEファミリーの開発と利用", 人工知能学会 セマンティックWebとオントロジー研究会 第11回 SIG-SWO-A502-07 (2005/11/21)
 1. <u>森田 武史</u>, 繁田 佳宏, 杉浦 直樹, 福田 直樹, 和泉 憲明, 山口 高平, "セマンティックWebのためのオントロジー構築支援環境DODDLE-Rの実装", 第18回 2004年度人工知能学会全国大会（第18回），1G3-01, DOI: [10.11517/pjsai.JSAI04.0.75.0](http://doi.org/10.11517/pjsai.JSAI04.0.75.0)(2004/6/2) 
 1. <u>森田 武史</u>, 和泉 憲明, 福田 直樹, 山口 高平, "セマンティックWebのためのメタモデル管理ツール", 2003年度人工知能学会全国大会（第17回），1G2-05, DOI: [10.11517/pjsai.JSAI03.0.90.0](http://doi.org/10.11517/pjsai.JSAI03.0.90.0)(2003/6/25) 
+{: reversed="reversed"}
 
 ## <a id="section-8-2">研究会・全国大会 （共著）</a>
 1. 村山 友理，小林 一郎，<u>森田 武史</u>，中野 有紀子，山口 高平，"自然言語のSPARQLクエリ変換に基づく構造化知識へのアクセス手法の開発"，2018年度人工知能学会全国大会（第32回），1J1-04 (2018/6/5)
@@ -223,10 +230,12 @@ permalink: /achievement-ja.html
 1.	神谷 慎吾, 石橋 昌彦, <u>森田 武史</u>, 山口 高平, "業務概念体系（オントロジー）に基づく概念クラス図構築支援", 情報システム学会 第1回研究発表大会 B-03 (2005/11/26)
 1.	神谷 慎吾, 石橋 昌彦, <u>森田 武史</u>, 福田 直樹, 飯島 正, 山口 高平, "オントロジーを用いた分析クラス図作成支援", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-15 Vol.105 No.208 pp.25-30 (2005/7/26)
 1.	洪 潤基, <u>森田 武史</u>, 飯島 正, 小出 誠二, 山口 高平, "日本語DODDLEに基づくロケット運用オントロジーの構築と評価", 電子情報通信学会, 信学技報（知能ソフトウェア工学研究会） KBSE2005-1 Vol.105 No.48 pp.1-6 (2005/5/16)
+{: reversed="reversed"}
 
 ## <a id="section-8-3">その他</a>
 1. <u>森田 武史</u>，"みんなのAIツール「PRINTEPS」体験ワークショップ"，第1回クラスルームAIシンポジウム (2017/11/18)
 1. <u>森田武史</u>, "Wikipediaを活用したセマンティックWebコンテンツの半自動構築およびWeb APIの実装", 電気通信普及財団研究調査報告書，第26号 pp.503-530 (2011)
+{: reversed="reversed"}
 
 # <a id="section-9">学会誌記事
 1.	<u>森田 武史</u>,  古崎 晃司, "特集 「2016年度人工知能学会全国大会（第30回）」 OS-19「Linked Data とオープンデータ活用」"，人工知能学会誌 Vol.31 NO.6 pp. 896 (2016)
@@ -239,6 +248,7 @@ permalink: /achievement-ja.html
 1.	福田 直樹, <u>森田 武史</u>, "会議報告(PAKM2008)", 人工知能学会誌 Vol.24 No.2 p.321 (2009)
 1.	<u>森田 武史</u>, "「博士論文特集」 セマンティックWebコンテンツ構築支援ツールの実装と評価", 人工知能学会誌 Vol.24 No.1 p.114 (2009)
 1.	<u>森田 武史</u>, "「編集委員今年の抱負2009：経糸から横糸まで」 電子化担当の今年の抱負", 人工知能学会誌 Vol.24 No.1 p.27 (2009)
+{: reversed="reversed"}
 
 # <a id="section-10">学位論文</a>
 
@@ -271,10 +281,12 @@ permalink: /achievement-ja.html
 # <a id="section-12">報道</a>
 1. CNET Japan（Web），<a href="https://japan.cnet.com/release/30144074/">一般社団法人情報システム学会　設立10周年記念論文賞表彰式及び講演会を開催</a> (2016/5/14)
 1. 日刊工業新聞 朝刊6面，<a href="https://www.nikkan.co.jp/articles/view/00384127">接客ロボへ指示容易　慶大　作業プログラム用意</a> (2016/5/4)
+{: reversed="reversed"}
 
 # <a id="section-13">特許</a>
 1. 山口 高平，<u>森田 武史</u>，"ＲＯＳに基づく総合知能アプリケーション開発プラットフォーム"，特願2018-108105 ，2018年6月5日
 1. 山口 高平，<u>森田 武史</u>，"知能ロボットシステム及びプログラム"，特願2017-155584 ，2017年8月10日
+{: reversed="reversed"}
 
 # <a id="section-14">ソフトウェア</a>
 
