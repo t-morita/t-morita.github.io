@@ -49,7 +49,7 @@ permalink: /achievement-ja.html
 	* <u>森田 武史</u>, 山口 高平，3章 オントロジー学習の現状と動向, pp. 39-65
 
 # <a id="section-3">学術論文</a>
-16. 杉山 岳弘，大野 祐，牧山 宅矢，<u>森田 武史</u>，小薬 洋昭，手嶋 秀之，山口 高平，"高速道路からの立ち寄り観光推薦アプリの開発および実証実験", 観光と情報，第15巻，第1号, pp.27-42 (2018)
+16. 杉山 岳弘，大野 祐，牧山 宅矢，<u>森田 武史</u>，小薬 洋昭，手嶋 秀之，山口 高平，"高速道路からの立ち寄り観光推薦アプリの開発および実証実験", 観光と情報，第14巻，第1号, pp.27-42 (2018)
 15. <u>Takeshi Morita</u>, Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, Reiji Kukihara, Misae Kuwayama, Takahira Yamaguchi, "A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS", The Review of Socionetwork Strategies, Springer, Vol. 12, Issue 1, pp 97–126, DOI: [10.1007/s12626-018-0021-x](https://doi.org/10.1007/s12626-018-0021-x) (2018) 
 14. <u>Takeshi Morita</u>, Kodai Nakamura, Hiroki Komatsushiro, Takahira Yamaguchi, "PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS", The Review of Socionetwork Strategies, Springer, Vol. 12, Issue 1, pp 71–96, DOI: [10.1007/s12626-018-0020-y](https://doi.org/10.1007/s12626-018-0020-y) (2018) 
 13. Ryutaro Nambu, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment", The Review of Socionetwork Strategies, Springer, Vol. 11, Issue 1, pp. 1-16, DOI: [10.1007/s12626-017-0003-4](https://doi.org/10.1007/s12626-017-0003-4) (2017) 
