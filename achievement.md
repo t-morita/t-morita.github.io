@@ -4,11 +4,12 @@ title: Achievement
 permalink: /achievement.html
 ---
 
-* [International Journal Articles](#international-journal-articles)
-* [Domestic Journal Articles](#domestic-journal-articles)
-* [Papers in Refereed Conferences and Workshops](#papers-in-refereed-conferences-and-workshops)
-* [Poster Papers](#poster-papers)
-* [Software](#software)
+- [International Journal Articles](#international-journal-articles)
+- [Domestic Journal Articles](#domestic-journal-articles)
+- [Papers in Refereed Conferences and Workshops](#papers-in-refereed-conferences-and-workshops)
+- [Invited Talks](#invited-talks)
+- [Poster Papers](#poster-papers)
+- [Software](#software)
 
 # International Journal Articles
 1. <u>Takeshi Morita</u>, Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, Reiji Kukihara, Misae Kuwayama, Takahira Yamaguchi, "A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS", The Review of Socionetwork Strategies, Springer, Vol. 12, Issue 1, pp 97–126, DOI: [10.1007/s12626-018-0021-x](https://doi.org/10.1007/s12626-018-0021-x) (2018)
@@ -33,6 +34,8 @@ permalink: /achievement.html
 {: reversed="reversed"}
 
 # Papers in Refereed Conferences and Workshops
+44. Yuri Murayama, Ichiro Kobayashi, <u>Takeshi Morita</u>, Yukiko Nakano, Takahira Yamaguchi, "Development of an Access Method to Menu Ontology Data through Converting Natural Language into SPARQL Queries", The Joint International Workshop on PAOS 2018 and PASSCR 2018, Vol-2293, pp. 13-20 (2018)
+43. Tokio Kawakami, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Building up Ontologies with Property Axioms from Wikipedia", The Joint International Workshop on PAOS 2018 and PASSCR 2018, Vol-2293, pp. 1-12 (2018)
 42. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, "Implementing Multi-Robot Cafe by PRINTEPS with Service Quality Dimensions", 22nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2018), Procedia Computer Science, Vol.126, pp.1954-1963, DOI: [10.1016/j.procs.2018.08.035](https://doi.org/10.1016/j.procs.2018.08.035) (2018)
 41. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Michael Walch, Hideo Suzuki, Dimitris Karagiannis, Takahira Yamaguchi, "Practice of Multi-Robot Teahouse based on PRINTEPS and Evaluation of Service Quality", The 1st IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice, pp. 147-152, DOI: [10.1109/COMPSAC.2018.10219](https://doi.org/10.1109/COMPSAC.2018.10219) (2018) 
 40. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, "Evaluation of Service Quality of Multi-Robot Teahouse based on PRINTEPS", Federated AI for Robotics Workshop (FAIR) 2018 (2018) 
