@@ -10,7 +10,7 @@ permalink: /index-ja.html
   </section>
   <section class="right">
 <h1>略歴</h1>
-2003年 静岡大学 情報学部 情報科学科卒．2005年 同大学院 情報学研究科 修士課程修了．2007年 日本学術振興会特別研究員(DC2)．2008年 慶應義塾大学大学院 理工学研究科 後期博士課程修了．同年，日本学術振興会 特別研究員(PD)．2009年 慶應義塾大学大学院 理工学研究科 特別研究助教．2011年 青山学院大学 社会情報学部助手．2014年 同助教．2015年より慶應義塾大学 理工学 管理工学科 専任講師(有期)．現在に至る．博士(工学)．セマンティックWebとその応用，オントロジー自動構築（オントロジー学習）に関する研究に従事．人工知能学会，情報システム学会，ACM，日本データベース学会，電子情報通信学会の各会員．
+2003年 静岡大学 情報学部 情報科学科卒．2005年 同大学院 情報学研究科 修士課程修了．2007年 日本学術振興会特別研究員(DC2)．2008年 慶應義塾大学大学院 理工学研究科 後期博士課程修了．同年，日本学術振興会 特別研究員(PD)．2009年 慶應義塾大学大学院 理工学研究科 特別研究助教．2011年 青山学院大学 社会情報学部助手．2014年 同助教．2015年より慶應義塾大学 理工学 管理工学科 専任講師(有期)．現在に至る．博士(工学)．セマンティックWebとその応用，オントロジー自動構築（オントロジー学習）に関する研究に従事．人工知能学会，情報システム学会，日本データベース学会，電子情報通信学会の各会員．
   </section>
 </div>
 
@@ -22,8 +22,8 @@ permalink: /index-ja.html
 <tr><th>学位</th><td>博士（工学）</td></tr>
 <tr><th>勤務先 所在地</th><td>〒223-8522 横浜市港北区日吉3-14-1 <br/> 慶應義塾大学 理工学部 管理工学科 矢上キャンパス 23棟621室</td> </tr>
 <tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
-<tr><th>Webサイト (English)</th><td><a href="http://takeshi-morita.jp/">http://takeshi-morita.jp/</a></td></tr>
-<tr><th>Webサイト (日本語)</th><td><a href="http://takeshi-morita.jp/index-ja.html">http://takeshi-morita.jp/index-ja.html</a></td></tr>
+<tr><th>Webサイト (English)</th><td><a href="https://takeshi-morita.jp/">https://takeshi-morita.jp/</a></td></tr>
+<tr><th>Webサイト (日本語)</th><td><a href="https://takeshi-morita.jp/index-ja.html">https://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>
 
 # 主な論文
@@ -36,16 +36,16 @@ permalink: /index-ja.html
 * <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
 # 自身で研究開発した主なソフトウェア
-* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](http://doddle-owl.org/)
-* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mrcube.org/)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://doddle-owl.org/)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](https://mrcube.org/)
 
 # 個人リンク
 * [Google Scholar Citation - Takeshi Morita](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
 * [DBLP - Takeshi Morita 0001](https://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
-* [CiNii - 森田 武史](http://ci.nii.ac.jp/nrid/9000001579532)
+* [CiNii - 森田 武史](https://ci.nii.ac.jp/nrid/9000001579532)
 * [GitHub - t-morita](https://github.com/t-morita)
-* [SlideShare - Takeshi Morita](http://www.slideshare.net/takeshimorita)
-* [researchmap - t_morita](http://researchmap.jp/t_morita/)
+* [SlideShare - Takeshi Morita](https://www.slideshare.net/takeshimorita)
+* [researchmap - t_morita](https://researchmap.jp/t_morita/)
 * [ResearchGate - Takeshi_Morita4](https://www.researchgate.net/profile/Takeshi_Morita4)
 
 # サイトマップ

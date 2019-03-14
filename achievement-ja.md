@@ -295,11 +295,11 @@ permalink: /achievement-ja.html
 * [JWO Refinement Tools](http://wikipedia-ontology.github.io/JWO_Refinement_Tools/)
 * [SmaphoProbe](https://github.com/smaphoprobe/SmaphoProbe)
 * [日本語Wikipediaオントロジー検索インタフェース＆Web APIs](https://github.com/t-morita/wikipedia_ontology_search)
-* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://github.com/doddle-owl/DODDLE-OWL)
-* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mrcube.org/)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://doddle-owl.org/)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](https://mrcube.org/)
 
 ## <a id="section-14-2">研究開発に関わったソフトウェアやリソース</a>
-* [実践知能アプリケーション開発プラットフォーム PRINTEPS](http://printeps.org)
+* [実践知能アプリケーション開発プラットフォーム PRINTEPS](https://printeps.org)
 * [WikiBOK](https://github.com/WikiBok)
 * [日本語Wikipediaオントロジー](https://osdn.jp/projects/wikipedia-ont/)
 

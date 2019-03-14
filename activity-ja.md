@@ -13,7 +13,7 @@ permalink: /activity-ja.html
 
 |2003年4月 - 現在| 人工知能学会|
 |2006年10月 - 現在| 情報システム学会|
-|2010年6月 - 現在 |ACM (Association for Computing Machinery)|
+|2010年6月 - 2018年6月 |ACM (Association for Computing Machinery)|
 |2011年7月 - 現在| 日本データベース学会|
 |2013年4月 - 現在| 電子情報通信学会|
 
@@ -38,12 +38,12 @@ permalink: /activity-ja.html
 |2015年6月          |第29回 人工知能学会全国大会 OS-8 Linked Dataとオープンデータ活用  オーガナイザ|
 |2015年6月          |第29回人工知能学会全国大会 2G3 「経営とAI」  セッション 座長|
 |2016年6月          |第30回 人工知能学会全国大会 OS-19 Linked Dataとオープンデータ活用  オーガナイザ|
-|2016年6月 - 現在   |人工知能学会 セマンティックウェブとオントロジー研究会 幹事|
+|2016年6月 - 2018年1月 |人工知能学会 セマンティックウェブとオントロジー研究会 幹事|
 |2016年9月 - 現在   |電子情報通信学会『Special Section on Semantic Web and Linked Data』小特集編集委員会 編集委員|
 |2016年11月- 現在   | Linked Open Data Challenge 実行委員 |
 |2017年5月          |第31回 人工知能学会全国大会 OS-39 Linked Dataとナレッジグラフ オーガナイザ|
 |2017年6月 - 現在   |情報システム学会 研究普及委員会 委員|
-
+|2018年6月          |第32回人工知能学会全国大会 2F4 「知識の利用と共有-知識表現」  セッション 座長|
 
 # <a id="section-3">国際会議委員</a>
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
@@ -64,9 +64,10 @@ permalink: /activity-ja.html
 * The 3rd International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2016), Program Committee
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
 * 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2017), Organizers
-* The 8th Joint International Semantic Technology (JIST2016), Publicity Chairs
+* The 8th Joint International Semantic Technology (JIST2018), Publicity Chairs
 * The 1st IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice (AIML2018), Program Committee
 * The Sixth International Symposium on Computing and Networking (CANDAR'18), Program Committee
+* The Joint International Workshop on PAOS2018 and PASSCR2018, Organizers
 
 # <a id="section-4">論文査読</a>
 * 人工知能学会論文誌

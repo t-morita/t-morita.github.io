@@ -24,8 +24,8 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 <tr><th>Degree</th><td>Doctor of engineering</td></tr>
 <tr><th>Office address</th><td>3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522</td></tr>
 <tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
-<tr><th>Web site (English)</th><td><a href="http://takeshi-morita.jp/">http://takeshi-morita.jp/</a></td></tr>
-<tr><th>Web site (Japanese)</th><td><a href="http://takeshi-morita.jp/index-ja.html">http://takeshi-morita.jp/index-ja.html</a></td></tr>
+<tr><th>Web site (English)</th><td><a href="https://takeshi-morita.jp/">https://takeshi-morita.jp/</a></td></tr>
+<tr><th>Web site (Japanese)</th><td><a href="https://takeshi-morita.jp/index-ja.html">https://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>
 
 # Selected Papers
@@ -38,15 +38,15 @@ Takeshi Morita is an Assistant Professor at the Faculty of Science and Technolog
 * <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering Vol.E89-D No.4 pp.1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
 # Selected Software
-* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](http://doddle-owl.org/)
-* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](http://mrcube.org/)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://doddle-owl.org/)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](https://mrcube.org/)
 
 # Personal Links
 * [Google Scholar Citation - Takeshi Morita](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
 * [DBLP - Takeshi Morita 0001](https://dblp.uni-trier.de/pers/hd/m/Morita_0001:Takeshi.html)
 * [GitHub - t-morita](https://github.com/t-morita)
-* [SlideShare - Takeshi Morita](http://www.slideshare.net/takeshimorita)
-* [researchmap - t_morita](http://researchmap.jp/t_morita/)
+* [SlideShare - Takeshi Morita](https://www.slideshare.net/takeshimorita)
+* [researchmap - t_morita](https://researchmap.jp/t_morita/)
 * [ResearchGate - Takeshi_Morita4](https://www.researchgate.net/profile/Takeshi_Morita4)
 
 # Site Map
