@@ -67,6 +67,7 @@ permalink: /activity-ja.html
 * The 8th Joint International Semantic Technology (JIST2018), Publicity Chairs
 * The 1st IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice (AIML2018), Program Committee
 * The Sixth International Symposium on Computing and Networking (CANDAR'18), Program Committee
+* The 3rd International Workshop on GPU Computing and AI (GCA'18), Program Committee
 * The Joint International Workshop on PAOS2018 and PASSCR2018, Organizers
 
 # <a id="section-4">論文査読</a>
