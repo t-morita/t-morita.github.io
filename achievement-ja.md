@@ -108,7 +108,7 @@ permalink: /achievement-ja.html
 27. Haruya Suga, <u>Takeshi Morita</u>, and Takahira Yamaguchi，"Primary School Teacher-Robot Collaboration with Multiple Information Sources", Workshop on Bridging user needs to deployed applications of service robots, IEEE/RSJ International Conference on Intelligent Robots and Systems 2015 (2015)
 26. Yu Sugawara, <u>Takeshi Morita</u>, Shunta Saito and Takahira Yamaguchi，"An Intelligent Application Development Platform for Service Robots", Workshop on Multimodal Semantics for Robotic Systems (MuSRobS), IEEE/RSJ International Conference on Intelligent Robots and Systems 2015 (2015)
 25. Tatsuya Kimoto, <u>Takeshi Morita</u>, Takahito Ishii, Haryuya Suga, Yu Sugawara, Takashi Beppu and Takahira Yamaguchi，"Integrating Heterogeneous Data Sources for Planning Road Reconstruction", Knowledge-Based and Intelligent Information & Engineering Systems 19th Annual Conference(KES2015), Procedia Computer Science, Vol.60, pp.1720-1727, DOI: [10.1016/j.procs.2015.08.302](http://dx.doi.org/10.1016/j.procs.2015.08.302) (2015)
-24. Taro Yabuki, <u>Takeshi Morita</u>, Yoshifumi Masunaga, "Formulation and Verification of the Body of Knowledge of New Discipline using WikiBOK", Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication, a76, DOI: [10.1145/2701126.2701188](http://dx.doi.org/10.1145/2701126.2701188) (2015)
+24. Taro Yabuki, <u>Takeshi Morita</u>, Yoshifumi Masunaga, "Formulation and Verification of the Body of Knowledge of New Discipline using WikiBOK", Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication, No.76, ACM, pp.76:1-76:8, DOI: [10.1145/2701126.2701188](http://dx.doi.org/10.1145/2701126.2701188) (2015)
 23. Yu Sugawara, <u>Takeshi Morita</u>, Hidenao Abe, Shuichi Matsumoto, Takahira Yamaguchi, "Identifying Types of Staying Facilities from Traffic Behavior Log Data", Proceedings of the 18th International Conference in Knowledge Based and Intelligent Information and Engineering Systems, Vol. 35, pp. 1495-1504, DOI: [10.1016/j.procs.2014.08.232](http://dx.doi.org/10.1016/j.procs.2014.08.232) (2014)
 22. Wataru Okawara, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Implementing Mobility Service Based on Japanese Linked Data", 3rd Joint International Semantic Technology conference, Springer, LNCS8388, pp. 51-66, DOI: [10.1007/978-3-319-06826-8_5](http://dx.doi.org/10.1007/978-3-319-06826-8_5) (2013) 
 21. Naohiro Nakamura, Susumu Tamagawa, <u>Takeshi Morita</u>, Přibyl Pavel, Hironao Kawashima, Takahira Yamaguchi, "Automatic Construction of ITS Ontologies with Structural and WordSpace Analysis Specific to ITS Documents", 20th ITS WORLD CONGRESS TOKYO 2013, No.2912 (2013)
@@ -304,7 +304,7 @@ permalink: /achievement-ja.html
 
 # <a id="section-13">特許</a>
 3. 山口 高平, 高橋 正樹, <u>森田 武史</u>, 萬 礼応，"業務管理システム、情報処理装置、業務管理方法及びプログラム", 特願2019-122398, 2019年6月28日
-2. 山口 高平，<u>森田 武史</u>，"ＲＯＳに基づく総合知能アプリケーション開発プラットフォーム"，特願2018-108105 ，2018年6月5日
+2. 山口 高平，<u>森田 武史</u>，"情報処理装置、情報処理方法及びプログラム"，特願2018-108105 ，2018年6月5日
 1. 山口 高平，<u>森田 武史</u>，"知能ロボットシステム及びプログラム"，特願2017-155584 ，2017年8月10日
 {: reversed="reversed"}
 
