@@ -31,3 +31,5 @@ permalink: /activity.html
 * The Joint International Workshop on PAOS2018 and PASSCR2018, Organizers
 * The 2nd IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice (AIML2019), Program Committee
 * The 18th International Semantic Web Conference (ISWC2019), Research Track, Program Committee 
+* The Seventh International Symposium on Computing and Networking (CANDAR'19), Program Committee
+* The 4th International Workshop on GPU Computing and AI (GCA'19), Program Committee

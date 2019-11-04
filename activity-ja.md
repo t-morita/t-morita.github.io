@@ -13,7 +13,7 @@ permalink: /activity-ja.html
 
 |2003年4月 - 現在| 人工知能学会|
 |2006年10月 - 現在| 情報システム学会|
-|2010年6月 - 2018年6月 |ACM (Association for Computing Machinery)|
+|2010年6月 - 現在 |ACM (Association for Computing Machinery)|
 |2011年7月 - 現在| 日本データベース学会|
 |2013年4月 - 現在| 電子情報通信学会|
 
@@ -71,6 +71,8 @@ permalink: /activity-ja.html
 * The Joint International Workshop on PAOS2018 and PASSCR2018, Organizers
 * The 2nd IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice (AIML2019), Program Committee
 * The 18th International Semantic Web Conference (ISWC2019), Research Track, Program Committee 
+* The Seventh International Symposium on Computing and Networking (CANDAR'19), Program Committee
+* The 4th International Workshop on GPU Computing and AI (GCA'19), Program Committee
 
 # <a id="section-4">論文査読</a>
 * 人工知能学会論文誌
