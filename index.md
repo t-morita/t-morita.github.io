@@ -5,25 +5,16 @@ permalink: /
 ---
 
 
-<div class="flexbox">
-  <section class="left">
-    <img width="160px" src="http://yagamix.st.keio.ac.jp/tprofile/images/dab69f20ddd8d8f44f7afeb160338955.jpg">
-  </section>
-  <section class="right">
 <h1>Biography</h1>
-I am an Associate Professor at the Faculty of Science and Technology of Keio University. I received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. I received Ph.D. in Engineering from Keio University in 2008. I am interested in Ontology Learning, Ontology Engineering, and Semantic Web. I am a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
-  </section>
-</div>
-
-<br/>
+I am an Associate Professor at the College of Science and Engineering, Aoyama Gakuin University. I received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. I received Ph.D. in Engineering from Keio University in 2008. I am interested in Ontology Learning, Ontology Engineering, and Semantic Web. I am a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
 
 <table>
 <tr><th>Name</th><td>Takeshi Morita</td></tr>
-<tr><th>Affiliation</th><td>Department of Administration Engineering, Faculty of Science and Technology , Keio University </td></tr>
-<tr><th>Title</th><td>Associate Professor (Non-tenured)</td></tr>
+<tr><th>Affiliation</th><td>Department of Integrated Information Technology, College of Science and Engineering, Aoyama Gakuin University</td></tr>
+<tr><th>Title</th><td>Associate Professor</td></tr>
 <tr><th>Degree</th><td>Ph.D. in Engineering</td></tr>
-<tr><th>Office address</th><td>3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522</td></tr>
-<tr><th>E-mail</th><td>t_morita [at] keio.jp</td></tr>
+<tr><th>Office address</th><td>5-10-1 Fuchinobe, Chuo-ku, Sagamihara-shi, Kanagawa-ken 252-5258</td></tr>
+<tr><th>E-mail</th><td>morita [at] it.aoyama.ac.jp</td></tr>
 <tr><th>Web site (English)</th><td><a href="https://takeshi-morita.jp/">https://takeshi-morita.jp/</a></td></tr>
 <tr><th>Web site (Japanese)</th><td><a href="https://takeshi-morita.jp/index-ja.html">https://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>

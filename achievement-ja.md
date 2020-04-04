@@ -51,7 +51,7 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 # <a id="section-3">学術論文</a>
-18. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, “Evaluation of a Multi-Robot Cafe based on Service Quality Dimensions”, The Review of Socionetwork Strategies, Springer, pp. 1-22, DOI: [10.1007/s12626-019-00049-x](https://doi.org/10.1007/s12626-019-00049-x) (2019)
+18. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, “Evaluation of a Multi-Robot Cafe based on Service Quality Dimensions”, The Review of Socionetwork Strategies, Springer, Vol. 14, pp. 55-76, DOI: [10.1007/s12626-019-00049-x](https://doi.org/10.1007/s12626-019-00049-x) (2020)
 17. <u>森田武史</u>，高橋尚也，小須田瑞季，山口高平, "知識チャンク再利用支援ツールを利用した教師ロボット連携授業システムの開発と評価"，情報システム学会論文誌, Vol. 15, No. 1, pp. 18-37 (2019)
 16. 杉山岳弘，大野祐，牧山宅矢，<u>森田武史</u>，小薬洋昭，手嶋秀之，山口高平，"高速道路からの立ち寄り観光推薦アプリの開発および実証実験", 観光と情報，第14巻，第1号, pp. 27-42 (2018)
 15. <u>Takeshi Morita</u>, Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, Reiji Kukihara, Misae Kuwayama, Takahira Yamaguchi, "A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS", The Review of Socionetwork Strategies, Springer, Vol. 12, Issue 1, pp. 97–126, DOI: [10.1007/s12626-018-0021-x](https://doi.org/10.1007/s12626-018-0021-x) (2018) 
