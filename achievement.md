@@ -12,7 +12,7 @@ permalink: /achievement.html
 - [Software](#software)
 
 # International Journal Articles
-1. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, “Evaluation of a Multi-Robot Cafe based on Service Quality Dimensions”, The Review of Socionetwork Strategies, Springer, Vol. 14, pp. 55-76, DOI: [10.1007/s12626-019-00049-x](https://doi.org/10.1007/s12626-019-00049-x) (2020)
+1. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, “Evaluation of a Multi-Robot Cafe based on Service Quality Dimensions”, The Review of Socionetwork Strategies, Springer, Vol. 14, Issue 1, pp. 55-76, DOI: [10.1007/s12626-019-00049-x](https://doi.org/10.1007/s12626-019-00049-x) (2020)
 1. <u>Takeshi Morita</u>, Shunsuke Akashiba, Chihiro Nishimoto, Naoya Takahashi, Reiji Kukihara, Misae Kuwayama, Takahira Yamaguchi, "A Practical Teacher-Robot Collaboration Lesson Application Based on PRINTEPS", The Review of Socionetwork Strategies, Springer, Vol. 12, Issue 1, pp. 97–126, DOI: [10.1007/s12626-018-0021-x](https://doi.org/10.1007/s12626-018-0021-x) (2018)
 1. <u>Takeshi Morita</u>, Kodai Nakamura, Hiroki Komatsushiro, Takahira Yamaguchi, "PRINTEPS: An Integrated Intelligent Application Development Platform based on Stream Reasoning and ROS", The Review of Socionetwork Strategies, Springer, Vol. 12, Issue 1, pp. 71–96, DOI: [10.1007/s12626-018-0020-y](https://doi.org/10.1007/s12626-018-0020-y)(2018) 
 1. Ryutaro Nambu, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Integrating Smart Glasses with Question-Answering Module in Assistant Work Environment", The Review of Socionetwork Strategies, Springer, Vol. 11, Issue 1, pp. 1-16, DOI: [10.1007/s12626-017-0003-4](https://doi.org/10.1007/s12626-017-0003-4)(2017) 
