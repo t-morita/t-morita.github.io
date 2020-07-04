@@ -24,7 +24,8 @@ permalink: /achievement.html
 {: reversed="reversed"}
 
 # Domestic Journal Articles
-
+1. Tokio Kawakami, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Building up Ontologies with Property Axioms from English Wikipedia", Transactions of the Japanese Society for Artificial Intelligence, Vol. 35, No. 4, pp. D-J33_1-14, DOI: [0.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020)
+1. Tokio Kawakami, <u>Takeshi Morita</u>, Takahira Yamaguchi, "Building up Ontologies from the English Wikipedia and Comparing with YAGO", Transactions of the Japanese Society for Artificial Intelligence, Vol. 35, No. 4, pp. C-J32_1-14, DOI: [10.1527/tjsai.C-J32](https://doi.org/10.1527/tjsai.C-J32) (2020)
 1. <u>Takeshi Morita</u>，Naoya Takahashi，Mizuki Kosuda，Takahira Yamaguchi, "Teacher-Robot Collaboration Lesson System using Knowledge Chunk Reuse Support Tool"，JISSJ, Vol. 15, No. 1, pp.18-37 (2019)
 1. Takahiro Sugiyama, Yu Ono, Takuya Makiyama, <u>Takeshi Morita</u>, Hiroaki Kogusur, Hideyuki Tejima, Takahira Yamaguchi, "Development and Demonstration Experiments of Sightseeing Recommendation Application for a Side Trip from the Highway", Journal of Society for Tourism Informatics, Vol.14, No. 1, pp. 27-42 (2018)
 1.	Yusuke Tagawa, Arata Tanaka, <u>Takeshi Morita</u>, Hiroya Minami, Daichi Namikawa, Michio Shimomura, Takahira Yamaguchi, "Diet Therapy Service Based on the Integration of Linked Data and Rule Base", Transactions of the Japanese Society for Artificial Intelligence, Vol. 31, No. 1, pp. LOD-B_1-13, DOI: [10.1527/tjsai.31-1_LOD-B](http://dx.doi.org/10.1527/tjsai.31-1_LOD-B)(2016)  
