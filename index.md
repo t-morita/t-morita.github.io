@@ -15,8 +15,6 @@ I am an Associate Professor at the College of Science and Engineering, Aoyama Ga
 <tr><th>Degree</th><td>Ph.D. in Engineering</td></tr>
 <tr><th>Office address</th><td>Bldg.O-510, 5-10-1 Fuchinobe, Chuo-ku, Sagamihara-shi, Kanagawa-ken 252-5258 JAPAN</td></tr>
 <tr><th>E-mail</th><td>morita [at] it.aoyama.ac.jp</td></tr>
-<tr><th>Web site (English)</th><td><a href="https://takeshi-morita.jp/">https://takeshi-morita.jp/</a></td></tr>
-<tr><th>Web site (Japanese)</th><td><a href="https://takeshi-morita.jp/index-ja.html">https://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>
 
 # Selected Papers

@@ -14,8 +14,6 @@ permalink: /index-ja.html
 <tr><th>学位</th><td>博士（工学）</td></tr>
 <tr><th>勤務先 所在地</th><td>〒252-5258 神奈川県相模原市中央区淵野辺 5-10-1<br/>相模原キャンパス O棟510室</td> </tr>
 <tr><th>E-mail</th><td>morita [at] it.aoyama.ac.jp</td></tr>
-<tr><th>Webサイト (English)</th><td><a href="https://takeshi-morita.jp/">https://takeshi-morita.jp/</a></td></tr>
-<tr><th>Webサイト (日本語)</th><td><a href="https://takeshi-morita.jp/index-ja.html">https://takeshi-morita.jp/index-ja.html</a></td></tr>
 </table>
 
 # 主な論文
