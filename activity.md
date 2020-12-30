@@ -33,3 +33,5 @@ permalink: /activity.html
 * The 18th International Semantic Web Conference (ISWC2019), Research Track, Program Committee 
 * The Seventh International Symposium on Computing and Networking (CANDAR'19), Program Committee
 * The 4th International Workshop on GPU Computing and AI (GCA'19), Program Committee
+* The Eighth International Symposium on Computing and Networking (CANDAR'20), Program Committee
+* The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
