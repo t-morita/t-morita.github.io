@@ -16,6 +16,8 @@ permalink: /activity-ja.html
 |2010年6月 - 現在 |ACM (Association for Computing Machinery)|
 |2011年7月 - 現在| 日本データベース学会|
 |2013年4月 - 現在| 電子情報通信学会|
+|2021年4月 - 現在| 情報処理学会|
+|2022年1月 - 現在| 言語処理学会|
 
 # <a id="section-2">国内委員</a>
 
