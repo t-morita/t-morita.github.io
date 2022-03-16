@@ -85,6 +85,7 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 # 国際会議論文
+51. Alan Schalkwijk, Motoki Yatsu, <u>Takeshi Morita</u>, Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, [The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/schedule.html) (2021/12/6)
 50. <u>Takeshi Morita</u>, Naoya Takahashi, Mizuki Kosuda, Takahira Yamaguchi, “A Knowledge Chunk Reuse Support Tool Based on Heterogeneous Ontologies”, Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, Vol. 2:KEOD, pp. 217-224, Vienna, Austria, DOI: [10.5220/0008067002170224](https://doi.org/10.5220/0008067002170224) (2019/9/18)
 49. Hiroki Ono, Kaito Koike, <u>Takeshi Morita</u>, Takahira Yamaguchi, “Ontologies-Based Pupil Robot Interaction with Group Discussion”, Proceedings of the 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Procedia Computer Science, Elsevier, Vol. 159, pp. 2071-2080, Budapest, Hungary, DOI: [10.1016/j.procs.2019.09.380](https://doi.org/10.1016/j.procs.2019.09.380) (2019/9/5) 
 48. Kohei Suehiro, Kazuki Masumura, <u>Takeshi Morita</u>, Takahira Yamaguchi, “Semantic Search Engine for Daily Work Reports Integrating Heterogeneous Ontologies”, Proceedings of the 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Procedia Computer Science, Elsevier, Vol. 159, pp. 2016-2070 ,Budapest, Hungary, DOI: [10.1016/j.procs.2019.09.379](https://doi.org/10.1016/j.procs.2019.09.379) (2019/9/5) 
@@ -145,14 +146,14 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 # 国際会議 ポスター発表
-1. <u>Takeshi Morita</u>, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Implementing Customer Reception Service in Robot Cafe using Stream Reasoning and ROS based on PRINTEPS", International Semantic Web Conference (Posters & Demos) (2016)
-1. Takuya Makiyama, Yu Ono, <u>Takeshi Morita</u>, Takahira Yamaguchi, Hiroaki Kogusuri, Hideyuki Tejima, Takahiro Sugiyama, "Implementing Tourism Service Based on Linked Data with Social Experiments", Poster and Demonstartion,The Joint International Semantic Technology Conference (JIST) 2014 (2014)
-1. <u>Takeshi Morita</u>, Susumu Tamagawa, Takahira Yamaguchi, "Constructing a Class Hierarchy with Properties by Refining and Aligning Japanese Wikipedia Ontology and Japanese WordNet", 13th International Semantic Web Conference (ISWC2014), 9th International Workshop on Ontology Matching (2014)
-1. Shinya Sakurai, Takuya Tejima, <u>Takeshi Morita</u>, Noriaki Izumi, Takahira Yamaguchi, "Building up a Large Ontology from Wikipedia Japan with Infobox and Category Tree", In Poster & Demonstration Proceedings of the 4th Asian Semantic Web Conference (2009) 
-1. <u>Takeshi Morita</u>, Takuya Tejima, Noriaki Izumi, Takahira Yamaguchi, "A Domain Ontology Construction Method Supported by an Ontology Search Engine", In Poster & Demonstration Proceedings of the 6th International Semantic Web Conference pp. 73-74 (2007) 
-1. Seiji Koide, <u>Takeshi Morita</u>, Takahira Yamaguchi, Hendry Muljadi, Hideaki Takeda, "RDF/OWL Representation of WordNet 2.1 and Japanese EDR Electronic Dictionary", In Poster & Demonstration Proceedings of the 5th International Semantic Web Conference, PID20 (2006)
-1. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Building up RDF and RDFS Descriptions with Meta-Model Management", In Poster & Demonstration Proceedings of the 4th International Semantic Web Conference, PID28 (2005)
-1. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "DODDLE-OWL: On-the-fly Ontology Construction with Ontology Quality Management", In Poster & Demonstration Proceedings of the 3rd International Semantic Web Conference, p. 47 (2004)
+9. <u>Takeshi Morita</u>, Yu Sugawara, Ryota Nishimura, and Takahira Yamaguchi, "Implementing Customer Reception Service in Robot Cafe using Stream Reasoning and ROS based on PRINTEPS", International Semantic Web Conference (Posters & Demos) (2016)
+8. Takuya Makiyama, Yu Ono, <u>Takeshi Morita</u>, Takahira Yamaguchi, Hiroaki Kogusuri, Hideyuki Tejima, Takahiro Sugiyama, "Implementing Tourism Service Based on Linked Data with Social Experiments", Poster and Demonstartion,The Joint International Semantic Technology Conference (JIST) 2014 (2014)
+7. <u>Takeshi Morita</u>, Susumu Tamagawa, Takahira Yamaguchi, "Constructing a Class Hierarchy with Properties by Refining and Aligning Japanese Wikipedia Ontology and Japanese WordNet", 13th International Semantic Web Conference (ISWC2014), 9th International Workshop on Ontology Matching (2014)
+6. Shinya Sakurai, Takuya Tejima, <u>Takeshi Morita</u>, Noriaki Izumi, Takahira Yamaguchi, "Building up a Large Ontology from Wikipedia Japan with Infobox and Category Tree", In Poster & Demonstration Proceedings of the 4th Asian Semantic Web Conference (2009) 
+5. <u>Takeshi Morita</u>, Takuya Tejima, Noriaki Izumi, Takahira Yamaguchi, "A Domain Ontology Construction Method Supported by an Ontology Search Engine", In Poster & Demonstration Proceedings of the 6th International Semantic Web Conference pp. 73-74 (2007) 
+4. Seiji Koide, <u>Takeshi Morita</u>, Takahira Yamaguchi, Hendry Muljadi, Hideaki Takeda, "RDF/OWL Representation of WordNet 2.1 and Japanese EDR Electronic Dictionary", In Poster & Demonstration Proceedings of the 5th International Semantic Web Conference, PID20 (2006)
+3. <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "Building up RDF and RDFS Descriptions with Meta-Model Management", In Poster & Demonstration Proceedings of the 4th International Semantic Web Conference, PID28 (2005)
+2. <u>Takeshi Morita</u>, Yoshihiro Shigeta, Naoki Sugiura, Naoki Fukuta, Noriaki Izumi, Takahira Yamaguchi, "DODDLE-OWL: On-the-fly Ontology Construction with Ontology Quality Management", In Poster & Demonstration Proceedings of the 3rd International Semantic Web Conference, p. 47 (2004)
 1. Noriaki Izumi, <u>Takeshi Morita</u>, Naoki Fukuta, Takahira Yamaguchi, "RDF-based Meta-Model Management Environment", Proceedings of the 6th SANKEN (I.S.I.R) International Symposium on New Trends in Knowledge Processing, Data mining, Seamntic Web and Computational Science, pp. 87-88 (2003)
 {: reversed="reversed"}
 
@@ -184,6 +185,15 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 ## 研究会・全国大会 （共著）
+84. 井上蒼一朗，谷津元樹，<u>森田武史</u>，重畳型駄洒落ユーモアにおける常識的知識グラフを用いた潜在表現抽出，言語処理学会第28回年次大会，F5-5 (2022/3/16)
+83. 鈴木七星，谷津元樹，<u>森田武史</u>，雑談対話システムのためのユーザ発話とSPARQLテンプレートを用いた大規模知識グラフからのユーザ知識グラフ抽出，第56回人工知能学会セマンティックウェブとオントロジー研究会，SIG-SWO-056-03 (2022/3/11)
+82. 澤村勇輝，谷津元樹，<u>森田武史</u>，日本語形態素解析を導入したDBpedia Spotlightに基づく日本語エンティティリンキング，第56回人工知能学会セマンティックウェブとオントロジー研究会，SIG-SWO-056-02 (2022/3/11)
+81. 掛川夏海，谷津元樹，<u>森田武史</u>，汎用的自然言語処理フレームワークへのボケ検出機構の統合，第94回人工知能学会 言語・音声理解と対話処理研究会，DOI: [10.11517/jsaislud.94.0_09](https://doi.org/10.11517/jsaislud.94.0_09) (2022/3/6)
+80. 井上恵彰，谷津元樹，<u>森田武史</u>，意外性，新規性および具体性を考慮したユーモアを含む直喩表現生成，第94回人工知能学会 言語・音声理解と対話処理研究会，DOI：[10.11517/jsaislud.94.0_08](https://doi.org/10.11517/jsaislud.94.0_08) (2022/3/6)
+79. スホルクワイク亜蘭，谷津元樹，<u>森田武史</u>，家庭環境知識と常識推論に基づく双方向型対話ナビゲーションシステム，情報処理学会 第84回全国大会，6T-05 (2022/3/5)
+78. 吉兼拓生，谷津元樹，<u>森田武史</u>，知識グラフに基づく質問応答システムにおける論理形式パターンを用いた論理形式検索の改善，情報処理学会 第84回全国大会，1X-04 (2022/3/3)
+77. 吉兼拓生，谷津元樹，<u>森田武史</u>，知識グラフに基づく質問応答における論理形式パターンを用いた論理形式検索の高速化，第55回人工知能学会セマンティックウェブとオントロジー研究会，SIG-SWO-055-03，DOI：[10.11517/jsaisigtwo.2021.SWO-055_03](https://doi.org/10.11517/jsaisigtwo.2021.SWO-055_03) (2021/11/26)
+76. スホルクワイク亜蘭，谷津元樹，<u>森田武史</u>，家庭環境オントロジーと常識推論に基づく双方向型対話ナビゲーションシステムの開発，第55回人工知能学会セマンティックウェブとオントロジー研究会，SIG-SWO-055-02，DOI：[10.11517/jsaisigtwo.2021.SWO-055_02](https://doi.org/10.11517/jsaisigtwo.2021.SWO-055_02) (2021/11/26)
 75. 高野拓海，<u>森田武史</u>，山口高平，"BRMSとWebサービスの連携による間接業務の自動化"，第16回情報システム学会全国大会・研究発表大会, C3（2020/12/5-12/11）
 74. 吉兼拓生，谷津元樹，<u>森田武史</u>，"知識グラフを用いた対話型質問応答における推論方法の検討"，第16回情報システム学会全国大会・研究発表大会, S5-4（2020/12/5-12/11）
 73. スホルクワイク亜蘭，谷津元樹，<u>森田武史</u>，"3D環境を利用したマルチモーダル対話システムにおける領域オントロジー"，第16回情報システム学会全国大会・研究発表大会, S3-2（2020/12/5-12/11）
@@ -262,6 +272,7 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 ## その他
+5. Takahira Yamguchi, <u>Takeshi Morita</u>, A User-Centric Platform PRINTEPS to Develop Intelligent Robot Applications, [NEMO Summerschool 2021](https://nemo.omilab.org/2021/lectures_list/) (2021/7/20)
 4. <u>森田武史</u>，“「PRINTEPS」を利用した教師ロボット連携授業アプリの開発体験ワークショップ”, 「AIロボットを使った授業作りを学ぼう」第1回セミナー, 慶應義塾大学日吉キャンパス来往舎, 神奈川県横浜市 (2019/8/3) 
 3. <u>森田武史</u>，"みんなのAIツール「PRINTEPS」体験ワークショップ"，第1回クラスルームAIシンポジウム (2017/11/18)
 2. <u>森田武史</u>, “RDBMSとAWSを利用したデータ分析入門”, 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会 第1回研究部会 セミナー, 慶應義塾大学矢上キャンパス, 神奈川県横浜市 (2016/11/5)
