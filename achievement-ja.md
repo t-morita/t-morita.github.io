@@ -41,6 +41,7 @@ permalink: /achievement-ja.html
 | 2006年10月 | 慶應義塾大学国際会議論文発表奨励賞 <br/>  受賞者：<u>森田武史</u>|
 
 # 著書
+3. <u>Takeshi Morita</u>, Takahira Yamaguchi, Generating ROS Codes from User-Level Workflow in PRINTEPS. In: Karagiannis, D., Lee, M., Hinkelmann, K., Utz, W. (eds) Domain-Specific Conceptual Modeling. Springer, Cham., DOI: [10.1007/978-3-030-93547-4_19](https://doi.org/10.1007/978-3-030-93547-4_19) (2022)
 2. "人工知能学大事典", 人工知能学会（編集），共立出版 (2017) ISBN-13: 978-4320124202
 	* <u>森田武史</u>, 第18章 知識工学とセマンティックテクノロジー，18-13 大規模知識モデリングと集合知アプローチ, pp. 1275-1276
 	* <u>森田武史</u>, 第18章 知識工学とセマンティックテクノロジー，18-21 オントロジー学習（オントロジー半自動構築）, pp. 1292-1293

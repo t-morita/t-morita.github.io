@@ -4,12 +4,16 @@ title: Achievement
 permalink: /achievement.html
 ---
 
+- [Books](#books)
 - [International Journal Articles](#international-journal-articles)
 - [Domestic Journal Articles](#domestic-journal-articles)
 - [Papers in Refereed Conferences and Workshops](#papers-in-refereed-conferences-and-workshops)
 - [Invited Talks](#invited-talks)
 - [Poster Papers](#poster-papers)
 - [Software](#software)
+
+# Books
+1. <u>Takeshi Morita</u>, Takahira Yamaguchi, Generating ROS Codes from User-Level Workflow in PRINTEPS. In: Karagiannis, D., Lee, M., Hinkelmann, K., Utz, W. (eds) Domain-Specific Conceptual Modeling. Springer, Cham., DOI: [10.1007/978-3-030-93547-4_19](https://doi.org/10.1007/978-3-030-93547-4_19) (2022)
 
 # International Journal Articles
 1. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, “Evaluation of a Multi-Robot Cafe based on Service Quality Dimensions”, The Review of Socionetwork Strategies, Springer, Vol. 14, Issue 1, pp. 55-76, DOI: [10.1007/s12626-019-00049-x](https://doi.org/10.1007/s12626-019-00049-x) (2020)
