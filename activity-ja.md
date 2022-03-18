@@ -82,6 +82,7 @@ permalink: /activity-ja.html
 * The 4th International Workshop on GPU Computing and AI (GCA'19), Program Committee
 * The Eighth International Symposium on Computing and Networking (CANDAR'20), Program Committee
 * The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
+* The Ninth International Symposium on Computing and Networking (CANDAR'21), Program Committee
 
 # <a id="section-4">論文査読</a>
 * 人工知能学会論文誌
