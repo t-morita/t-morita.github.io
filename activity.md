@@ -36,3 +36,4 @@ permalink: /activity.html
 * The Eighth International Symposium on Computing and Networking (CANDAR'20), Program Committee
 * The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
 * The Ninth International Symposium on Computing and Networking (CANDAR'21), Program Committee
+* The Tenth International Symposium on Computing and Networking (CANDAR'22), Program Committee

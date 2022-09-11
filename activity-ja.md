@@ -47,10 +47,11 @@ permalink: /activity-ja.html
 |2017年6月 - 現在   |情報システム学会 研究普及委員会 委員|
 |2018年6月          |第32回人工知能学会全国大会 2F4「知識の利用と共有-知識表現」セッション 座長|
 |2019年6月          |第33回人工知能学会全国大会 2L3-J-9「自然言語処理・情報検索: 知識の生成と提供」セッション 座長|
-|2020年4月 - 現在 |人工知能学会 セマンティックウェブとオントロジー研究会 主幹事|
+|2020年4月 - 2022年3月 |人工知能学会 セマンティックウェブとオントロジー研究会 主幹事|
 |2020年6月          |第34回人工知能学会全国大会 3Q1-GS-9「自然言語処理・情報検索: 文脈解析」セッション 座長|
 |2021年6月          |第35回人工知能学会全国大会 4N3-IS-1b「Knowledge engineering (2/3)」セッション 座長|
 |2022年3月          |情報処理学会第84回全国大会 学生セッション「知能システムとその応用（７）」座長|
+|2022年4月 - 現在 |人工知能学会 セマンティックウェブとオントロジー研究会 主査|
 
 # <a id="section-3">国際会議委員</a>
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
@@ -83,6 +84,7 @@ permalink: /activity-ja.html
 * The Eighth International Symposium on Computing and Networking (CANDAR'20), Program Committee
 * The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
 * The Ninth International Symposium on Computing and Networking (CANDAR'21), Program Committee
+* The Tenth International Symposium on Computing and Networking (CANDAR'22), Program Committee
 
 # <a id="section-4">論文査読</a>
 * 人工知能学会論文誌
