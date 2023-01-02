@@ -49,6 +49,8 @@ permalink: /activity-ja.html
 |2019年6月          |第33回人工知能学会全国大会 2L3-J-9「自然言語処理・情報検索: 知識の生成と提供」セッション 座長|
 |2020年4月 - 2022年3月 |人工知能学会 セマンティックウェブとオントロジー研究会 主幹事|
 |2020年6月          |第34回人工知能学会全国大会 3Q1-GS-9「自然言語処理・情報検索: 文脈解析」セッション 座長|
+|2021年4月 - 現在   |情報処理学会論文誌データベース編集委員会委員|
+|2021年6月 - 現在   |人工知能学会代議員|
 |2021年6月          |第35回人工知能学会全国大会 4N3-IS-1b「Knowledge engineering (2/3)」セッション 座長|
 |2022年3月          |情報処理学会第84回全国大会 学生セッション「知能システムとその応用（７）」座長|
 |2022年4月 - 現在 |人工知能学会 セマンティックウェブとオントロジー研究会 主査|
@@ -62,17 +64,17 @@ permalink: /activity-ja.html
 * 2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Non-PC Reviewer
 * The 8th International Conference of Practical Aspects on Knowledge Management (PAKM2010), Non-PC Reviewer
 * The 4th International Conference on Knowledge Science, Engineering and Management (KSEM2010), Non-PC Reviewer   
-* The 2nd Joint International Semantic Technology (JIST2012), Local Organizing Committee
-* The 2nd Joint International Semantic Technology (JIST2012), Program Committee
-* The 3rd Joint International Semantic Technology (JIST2013), Program Committee
+* The 2nd Joint International Semantic Technology Conference (JIST2012), Local Organizing Committee
+* The 2nd Joint International Semantic Technology Conference (JIST2012), Program Committee
+* The 3rd Joint International Semantic Technology Conference (JIST2013), Program Committee
 * The First International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2013), Program Committee
-* The 4th Joint International Semantic Technology (JIST2014), Program Committee
+* The 4th Joint International Semantic Technology Conference (JIST2014), Program Committee
 * The 15th International Semantic Web Conference (ISWC2016), Local Organizing Committee
-* The 6th Joint International Semantic Technology (JIST2016), Program Committee
+* The 6th Joint International Semantic Technology Conference (JIST2016), Program Committee
 * The 3rd International Workshop on Practical Application of Ontology for Semantic Data Engineering (PAOS2016), Program Committee
 * 1st International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2016), Organizers
 * 2nd International Workshop on Platforms and Applications for Social problem Solving and Collective Reasoning (PASSCR2017), Organizers
-* The 8th Joint International Semantic Technology (JIST2018), Publicity Chairs
+* The 8th Joint International Semantic Technology Conference (JIST2018), Publicity Chairs
 * The 1st IEEE International Workshop on Advances in AI and Machine Learning: Research & Practice (AIML2018), Program Committee
 * The Sixth International Symposium on Computing and Networking (CANDAR'18), Program Committee
 * The 3rd International Workshop on GPU Computing and AI (GCA'18), Program Committee
@@ -85,6 +87,7 @@ permalink: /activity-ja.html
 * The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
 * The Ninth International Symposium on Computing and Networking (CANDAR'21), Program Committee
 * The Tenth International Symposium on Computing and Networking (CANDAR'22), Program Committee
+* The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Publicity Chairs
 
 # <a id="section-4">論文査読</a>
 * 人工知能学会論文誌
