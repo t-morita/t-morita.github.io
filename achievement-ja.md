@@ -87,6 +87,9 @@ permalink: /achievement-ja.html
 1. <u>森田武史</u>, 山口高平, "オントロジー学習の現状と動向", 人工知能学会誌，Vol. 25, No. 3, pp. 354-365，DOI: [10.11517/jjsai.25.3_354](https://doi.org/10.11517/jjsai.25.3_354) (2010)
 {: reversed="reversed"}
 
+# 専門誌
+* 浅野歴，谷津元樹，<u>森田武史</u>，キャプション及び物体認識ラベルを用いた描画内容に即した駄洒落文の選択手法，画像ラボ，Vol.34，No.3，pp.59-65，[Webページ](https://www.nikko-pb.co.jp/products/detail.php?product_id=5491) (2023.3)
+
 # 国際会議論文
 52. Alan Schalkwijk, Motoki Yatsu, <u>Takeshi Morita</u>, Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, [The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/schedule.html) (2021/12/6)
 51. <u>Takeshi Morita</u>, Naoya Takahashi, Mizuki Kosuda, Takahira Yamaguchi, “A Knowledge Chunk Reuse Support Tool Based on Heterogeneous Ontologies”, Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, Vol. 2:KEOD, pp. 217-224, Vienna, Austria, DOI: [10.5220/0008067002170224](https://doi.org/10.5220/0008067002170224) (2019/9/18)
@@ -189,6 +192,15 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 ## 研究会・全国大会 （共著）
+98. 貞誉志樹，谷津元樹，<u>森田武史</u>，常識的知識グラフに基づく理解容易性及びユーモア性を考慮した直喩表現生成，人工知能学会第2種研究会 第71回ことば工学研究会，(2023/3/18)
+97. 谷津元樹，稲垣ルイ，田羅間大晴，<u>森田武史</u>，汎用的言語理解フレームワークに基づく統合型駄洒落雑談対話システムの構築と評価，人工知能学会第2種研究会 第71回ことば工学研究会， (2023/3/18)
+96. 志方脩，谷津元樹，<u>森田武史</u>，常識的知識グラフ及び単語埋め込みを用いた重畳型駄洒落ユーモア認識，言語処理学会第29回年次大会，B9-3，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B9-3.pdf) (2023/3/15)
+95. 浅野歴，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，画像キャプション生成及び物体認識を用いた駄洒落文ランキング手法の評価，言語処理学会第29回年次大会，P2-5，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P2-5.pdf) (2023/3/14)
+94. 森俊人，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，Wikipediaの赤リンクを用いたDBpediaの拡張の検討，人工知能学会第2種研究会 第59回セマンティックウェブとオントロジー研究会，SIG-SWO-059-08，DOI：[10.11517/jsaisigtwo.2023.SWO-059_08](https://doi.org/10.11517/jsaisigtwo.2023.SWO-059_08) (2023/3/10)
+93. 青山仁，谷津元樹，<u>森田武史</u>，VirtualHomeを対象とした家庭環境知識に基づく日常生活行動説明文からのアクションスクリプト自動生成 ，人工知能学会第2種研究会 第59回セマンティックウェブとオントロジー研究会，SIG-SWO-059-05，DOI：[10.11517/jsaisigtwo.2023.SWO-059_05](https://doi.org/10.11517/jsaisigtwo.2023.SWO-059_05) (2023/3/10)
+92. 山本泰誠，谷津元樹，<u>森田武史</u>，対話イベント知識グラフに基づくユーザ嗜好を考慮した知識獲得機能を有する雑談音声対話システム，人工知能学会第2種研究会 第59回セマンティックウェブとオントロジー研究会，SIG-SWO-059-04，DOI：[10.11517/jsaisigtwo.2023.SWO-059_04](https://doi.org/10.11517/jsaisigtwo.2023.SWO-059_04) (2023/3/10)
+91. 澤村勇輝，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，Wikidataを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，人工知能学会第2種研究会 第59回セマンティックウェブとオントロジー研究会，SIG-SWO-059-02，DOI：[10.11517/jsaisigtwo.2023.SWO-059_02](https://doi.org/10.11517/jsaisigtwo.2023.SWO-059_02) (2023/3/10)
+90. 上泉洸太，澤村勇輝，谷津元樹，<u>森田武史</u>，DBpediaを対象とした日本人名のエンティティリンキング，人工知能学会第2種研究会 第59回セマンティックウェブとオントロジー研究会，SIG-SWO-059-01，DOI：[10.11517/jsaisigtwo.2023.SWO-059_01](https://doi.org/10.11517/jsaisigtwo.2023.SWO-059_01) (2023/3/10)
 89. Ken Fukuda, Takanori Ugai, Mikiko Oono, Koji Kitamura, Fumiya Kubota, <u>Takeshi Morita</u>, Swe Nwe Nwe Htun, Shusaku Egami, Daily Activity data generation in Cyberspace for Semantic AI technology and HRI simulation，第40回日本ロボット学会学術講演会, 3J1-03 (2022/9/7)
 88. 浅野歴，谷津元樹，<u>森田武史</u>，キャプション及び物体認識ラベルを用いた画像に関連する駄洒落文の選択手法，情報処理学会 第252回自然言語処理研究会，Vol.2022-NL-252 No.11 (2022/6/29)
 87. 浅野歴，谷津元樹，<u>森田武史</u>，画像キャプション生成に基づく描画内容に即した駄洒落文の選択手法，2022年度人工知能学会全国大会（第36回），4D3-GS-6-01，DOI: [10.11517/pjsai.JSAI2022.0_4D3GS601](https://doi.org/10.11517/pjsai.JSAI2022.0_4D3GS601) (2022/6/17)
@@ -315,6 +327,7 @@ permalink: /achievement-ja.html
 # 研究資金
 ## 研究資金（代表）
 
+|2023年度〜2026年度 |文部科学省: 科学研究費補助金(基盤研究(C)) (研究課題番号：23K11221)<br/>「常識・行動・領域知識に基づき家庭内行動を推論する対話エージェントシステムの開発」<br/>（研究代表：森田武史）|
 |2015年度〜2018年度 |文部科学省: 科学研究費補助金(若手研究(B)) (研究課題番号：15K16090)<br/>「大規模多言語RDFグラフからのクラススキーマ階層の構築および洗練」<br/>（研究代表：森田武史）|
 |2012年度〜2014年度 |文部科学省: 科学研究費補助金(若手研究(B)) (研究課題番号：24700150)<br/>「WikipediaとWordNetの統合に基づくプロパティ付きクラス階層の構築」<br/>（研究代表：森田武史）|
 |2010年度          |財団法人 電気通信普及財団 研究調査助成<br/>「Wikipediaを活用したセマンティックWebコンテンツの半自動構築およびWeb APIの実装」<br/>（研究代表：森田武史）|

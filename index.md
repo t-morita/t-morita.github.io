@@ -6,12 +6,12 @@ permalink: /
 
 
 <h1>Biography</h1>
-I am an Associate Professor at the College of Science and Engineering, Aoyama Gakuin University. I received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. I received Ph.D. in Engineering from Keio University in 2008. I am interested in Ontology Learning, Ontology Engineering, and Semantic Web. I am a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
+I am a professor at the College of Science and Engineering, Aoyama Gakuin University. I received Bachelor of Informatics and Master of Informatics degrees in Computer Science from Shizuoka University in 2003 and 2005, respectively. I received Ph.D. in Engineering from Keio University in 2008. I am interested in Ontology Learning, Ontology Engineering, and Semantic Web. I am a member of ACM, DBSJ, IEICE, ISSJ, and JSAI.
 
 <table>
 <tr><th>Name</th><td>MORITA Takeshi</td></tr>
 <tr><th>Affiliation</th><td>Department of Integrated Information Technology, College of Science and Engineering, Aoyama Gakuin University</td></tr>
-<tr><th>Title</th><td>Associate Professor</td></tr>
+<tr><th>Title</th><td>Professor</td></tr>
 <tr><th>Degree</th><td>Ph.D. in Engineering</td></tr>
 <tr><th>Office address</th><td>Bldg.O-510, 5-10-1 Fuchinobe, Chuo-ku, Sagamihara-shi, Kanagawa-ken 252-5258 JAPAN</td></tr>
 <tr><th>E-mail</th><td>morita [at] it.aoyama.ac.jp</td></tr>

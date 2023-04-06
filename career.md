@@ -20,5 +20,6 @@ permalink: /career.html
 | 4/2014 - 3/2015 | Assistant Professor, Department of Social Informatics, Aoyama Gakuin University |
 | 4/2015 - 3/2019 | Assistant Professor (Non-tenured), Faculty of Science and Technology, Keio University |
 | 4/2019 - 3/2020 | Associate Professor (Non-tenured), Faculty of Science and Technology, Keio University |
-| 4/2020 -  | Associate Professor, Department of Integrated Information Technology, College of Science and Engineering, Aoyama Gakuin University |
+| 4/2020 - 3/2023 | Associate Professor, Department of Integrated Information Technology, College of Science and Engineering, Aoyama Gakuin University |
+| 4/2023 -  | Professor, Department of Integrated Information Technology, College of Science and Engineering, Aoyama Gakuin University |
 
