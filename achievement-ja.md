@@ -54,8 +54,9 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 # 学術論文
+22. 吉兼拓生, 谷津元樹, <u>森田武史</u>, "知識グラフに基づく質問応答システムにおける論理形式パターンを用いた論理形式検索の改善"，人工知能学会論文誌，Vol.38，No.3，pp.I-M92_1-13，DOI：[10.1527/tjsai.38-3_I-M92](https://doi.org/10.1527/tjsai.38-3_I-M92) (2023.5).
 21. Alan Schalkwijk, Motoki Yatsu, and <u>Takeshi Morita</u>, "An Interactive Virtual Home Navigation System Based on Home Ontology and Commonsense Reasoning", Information 13, No. 6: 287, DOI: [10.3390/info13060287](https://doi.org/10.3390/info13060287) (2022.6)
-20. 川上時生, <u>森田 武史</u>, 山口高平, "英語版ウィキペディアからプロパティ公理を備えたオントロジーの構築と評価", 人工知能学会論文誌, Vol. 35, No. 4, pp. D-J33_1-14, DOI: [10.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020)
+20. 川上時生, <u>森田武史</u>, 山口高平, "英語版ウィキペディアからプロパティ公理を備えたオントロジーの構築と評価", 人工知能学会論文誌, Vol. 35, No. 4, pp. D-J33_1-14, DOI: [10.1527/tjsai.D-J33](https://doi.org/10.1527/tjsai.D-J33) (2020)
 19. 川上時生, <u>森田武史</u>, 山口高平, "英語版ウィキペディアオントロジーの構築とYAGOおよびDBpediaとの比較評価", 人工知能学会論文誌, Vol. 35, No. 4, pp. C-J32_1-14, DOI: [10.1527/tjsai.C-J32](https://doi.org/10.1527/tjsai.C-J32) (2020)
 18. <u>Takeshi Morita</u>, Naho Kashiwagi, Ayanori Yorozu, Hideo Suzuki, Takahira Yamaguchi, “Evaluation of a Multi-Robot Cafe based on Service Quality Dimensions”, The Review of Socionetwork Strategies, Springer, Vol. 14, Issue 1, pp. 55-76, DOI: [10.1007/s12626-019-00049-x](https://doi.org/10.1007/s12626-019-00049-x) (2020)
 17. <u>森田武史</u>，高橋尚也，小須田瑞季，山口高平, "知識チャンク再利用支援ツールを利用した教師ロボット連携授業システムの開発と評価"，情報システム学会論文誌, Vol. 15, No. 1, pp. 18-37, DOI: [10.19014/jissj.15.1_18](https://doi.org/10.19014/jissj.15.1_18) (2019)
@@ -192,8 +193,11 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 ## 研究会・全国大会 （共著）
+101. 澤村勇輝，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，大規模知識グラフを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，2023年度人工知能学会全国大会（第37回），4G2-OS-24c-03，DOI: [10.11517/pjsai.JSAI2023.0_4G2OS24c03](https://doi.org/10.11517/pjsai.JSAI2023.0_4G2OS24c03) (2023/6/9)．<!-- 2023/6/9 -->
+100. 青山仁，谷津元樹，<u>森田武史</u>，VirtualHomeを対象とした日常生活行動説明文からのアクションスクリプト自動生成，2023年度人工知能学会全国大会（第37回），3G5-OS-24b-02，DOI: [10.11517/pjsai.JSAI2023.0_3G5OS24b02](https://doi.org/10.11517/pjsai.JSAI2023.0_3G5OS24b02) (2023/6/8)．<!-- 2023/6/8 -->
+99. 浅野歴，濱道光希，牟耕，森俊人，矢野翔平，<u>森田武史</u>，知識グラフとGPTを用いた家庭内の危険行動の検知と説明，2023年度人工知能学会全国大会（第37回），3G1-OS-24a-03，DOI: [10.11517/pjsai.JSAI2023.0_3G1OS24a03](https://doi.org/10.11517/pjsai.JSAI2023.0_3G1OS24a03) (2023/6/8)．<!-- 2023/6/8 -->
 98. 貞誉志樹，谷津元樹，<u>森田武史</u>，常識的知識グラフに基づく理解容易性及びユーモア性を考慮した直喩表現生成，人工知能学会第2種研究会 第71回ことば工学研究会，(2023/3/18)
-97. 谷津元樹，稲垣ルイ，田羅間大晴，<u>森田武史</u>，汎用的言語理解フレームワークに基づく統合型駄洒落雑談対話システムの構築と評価，人工知能学会第2種研究会 第71回ことば工学研究会， (2023/3/18)
+97. 谷津元樹，稲垣ルイ，田羅間大晴，<u>森田武史</u>，汎用的言語理解フレームワークに基づく統合型駄洒落雑談対話システムの構築と評価，人工知能学会第2種研究会 第71回ことば工学研究会 (2023/3/18)
 96. 志方脩，谷津元樹，<u>森田武史</u>，常識的知識グラフ及び単語埋め込みを用いた重畳型駄洒落ユーモア認識，言語処理学会第29回年次大会，B9-3，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B9-3.pdf) (2023/3/15)
 95. 浅野歴，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，画像キャプション生成及び物体認識を用いた駄洒落文ランキング手法の評価，言語処理学会第29回年次大会，P2-5，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P2-5.pdf) (2023/3/14)
 94. 森俊人，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，Wikipediaの赤リンクを用いたDBpediaの拡張の検討，人工知能学会第2種研究会 第59回セマンティックウェブとオントロジー研究会，SIG-SWO-059-08，DOI：[10.11517/jsaisigtwo.2023.SWO-059_08](https://doi.org/10.11517/jsaisigtwo.2023.SWO-059_08) (2023/3/10)
