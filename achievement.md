@@ -43,6 +43,8 @@ permalink: /achievement.html
 {: reversed="reversed"}
 
 # Papers in Refereed Conferences and Workshops
+54. Yuki Sawamura, <u>Takeshi Morita</u>, Shusaku Egami, Takanori Ugai, Ken Fukuda, Japanese Pointer Network based Entity Linker for Wikidata, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/9)
+53. Jin Aoyama, <u>Takeshi Morita</u>, Takanori Ugai, Shusaku Egami, Ken Fukuda, Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/8)
 52. Alan Schalkwijk, Motoki Yatsu, <u>Takeshi Morita</u>, Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, [The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/schedule.html) (2021/12/6)
 51. <u>Takeshi Morita</u>, Naoya Takahashi, Mizuki Kosuda, Takahira Yamaguchi, “A Knowledge Chunk Reuse Support Tool Based on Heterogeneous Ontologies”, Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, Vol. 2:KEOD, pp. 217-224, Vienna, Austria, DOI: [10.5220/0008067002170224](https://doi.org/10.5220/0008067002170224) (2019/9/18)
 50. Hiroki Ono, Kaito Koike, <u>Takeshi Morita</u>, Takahira Yamaguchi, “Ontologies-Based Pupil Robot Interaction with Group Discussion”, Proceedings of the 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Procedia Computer Science, Elsevier, Vol. 159, pp. 2071-2080, Budapest, Hungary, DOI: [10.1016/j.procs.2019.09.380](https://doi.org/10.1016/j.procs.2019.09.380) (2019/9/5) 

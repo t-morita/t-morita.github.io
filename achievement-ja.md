@@ -92,6 +92,8 @@ permalink: /achievement-ja.html
 * 浅野歴，谷津元樹，<u>森田武史</u>，キャプション及び物体認識ラベルを用いた描画内容に即した駄洒落文の選択手法，画像ラボ，Vol.34，No.3，pp.59-65，[Webページ](https://www.nikko-pb.co.jp/products/detail.php?product_id=5491) (2023.3)
 
 # 国際会議論文
+54. Yuki Sawamura, <u>Takeshi Morita</u>, Shusaku Egami, Takanori Ugai, Ken Fukuda, Japanese Pointer Network based Entity Linker for Wikidata, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/9)
+53. Jin Aoyama, <u>Takeshi Morita</u>, Takanori Ugai, Shusaku Egami, Ken Fukuda, Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/8)
 52. Alan Schalkwijk, Motoki Yatsu, <u>Takeshi Morita</u>, Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, [The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/schedule.html) (2021/12/6)
 51. <u>Takeshi Morita</u>, Naoya Takahashi, Mizuki Kosuda, Takahira Yamaguchi, “A Knowledge Chunk Reuse Support Tool Based on Heterogeneous Ontologies”, Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, Vol. 2:KEOD, pp. 217-224, Vienna, Austria, DOI: [10.5220/0008067002170224](https://doi.org/10.5220/0008067002170224) (2019/9/18)
 50. Hiroki Ono, Kaito Koike, <u>Takeshi Morita</u>, Takahira Yamaguchi, “Ontologies-Based Pupil Robot Interaction with Group Discussion”, Proceedings of the 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Procedia Computer Science, Elsevier, Vol. 159, pp. 2071-2080, Budapest, Hungary, DOI: [10.1016/j.procs.2019.09.380](https://doi.org/10.1016/j.procs.2019.09.380) (2019/9/5) 
@@ -193,6 +195,7 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 ## 研究会・全国大会 （共著）
+102. 青山仁，<u>森田武史</u>，鵜飼孝典，江上周作，福田賢一郎，LLMを活用した抽象的なタスク記述からのVirtualHomeのためのアクションスクリプト自動生成，人工知能学会第二種研究会 第61回セマンティックウェブとオントロジー研究会，SIG-SWO-061-10, DOI：[10.11517/jsaisigtwo.2023.SWO-061_10](https://doi.org/10.11517/jsaisigtwo.2023.SWO-061_10) (2023/11/25)．<!-- 2023/11/25 -->
 101. 澤村勇輝，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，大規模知識グラフを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，2023年度人工知能学会全国大会（第37回），4G2-OS-24c-03，DOI: [10.11517/pjsai.JSAI2023.0_4G2OS24c03](https://doi.org/10.11517/pjsai.JSAI2023.0_4G2OS24c03) (2023/6/9)．<!-- 2023/6/9 -->
 100. 青山仁，谷津元樹，<u>森田武史</u>，VirtualHomeを対象とした日常生活行動説明文からのアクションスクリプト自動生成，2023年度人工知能学会全国大会（第37回），3G5-OS-24b-02，DOI: [10.11517/pjsai.JSAI2023.0_3G5OS24b02](https://doi.org/10.11517/pjsai.JSAI2023.0_3G5OS24b02) (2023/6/8)．<!-- 2023/6/8 -->
 99. 浅野歴，濱道光希，牟耕，森俊人，矢野翔平，<u>森田武史</u>，知識グラフとGPTを用いた家庭内の危険行動の検知と説明，2023年度人工知能学会全国大会（第37回），3G1-OS-24a-03，DOI: [10.11517/pjsai.JSAI2023.0_3G1OS24a03](https://doi.org/10.11517/pjsai.JSAI2023.0_3G1OS24a03) (2023/6/8)．<!-- 2023/6/8 -->
