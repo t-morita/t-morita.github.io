@@ -54,6 +54,9 @@ permalink: /activity-ja.html
 |2021年6月          |第35回人工知能学会全国大会 4N3-IS-1b「Knowledge engineering (2/3)」セッション 座長|
 |2022年3月          |情報処理学会第84回全国大会 学生セッション「知能システムとその応用（７）」座長|
 |2022年4月 - 現在 |人工知能学会 セマンティックウェブとオントロジー研究会 主査|
+|2023年6月 - 現在 |電子情報通信学会 情報・システムソサイエティ英文論文誌編集委員会 編集委員|
+|2023年6月          |第37回人工知能学会全国大会 4N3-IS-1b「2L5-GS-3-知識の利用と共有」，「3R1-GS-3-知識の利用と共有」セッション 座長|
+
 
 # <a id="section-3">国際会議委員</a>
 * 2008 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, Reviewer 
@@ -87,7 +90,12 @@ permalink: /activity-ja.html
 * The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
 * The Ninth International Symposium on Computing and Networking (CANDAR'21), Program Committee
 * The Tenth International Symposium on Computing and Networking (CANDAR'22), Program Committee
+* The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), Program Committee 
+* The Eleventh International Symposium on Computing and Networking (CANDAR'23), Program Committee
+* THE 22nd International Semantic Web Conference (ISWC2023), Posters & Demos Track, Program Committee
 * The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Publicity Chairs
+* The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Research Track, Program Committee
+* The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Poster & Demo Track, Program Committee
 
 # <a id="section-4">論文査読</a>
 * 人工知能学会論文誌

@@ -37,4 +37,9 @@ permalink: /activity.html
 * The 5th International Workshop on GPU Computing and AI (GCA'20), Program Committee
 * The Ninth International Symposium on Computing and Networking (CANDAR'21), Program Committee
 * The Tenth International Symposium on Computing and Networking (CANDAR'22), Program Committee
+* The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), Program Committee 
+* The Eleventh International Symposium on Computing and Networking (CANDAR'23), Program Committee
+* THE 22nd International Semantic Web Conference (ISWC2023), Posters & Demos Track, Program Committee
 * The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Publicity Chairs
+* The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Research Track, Program Committee
+* The 12th International Joint Conference on Knowledge Graphs (IJCKG 2023), Poster & Demo Track, Program Committee
