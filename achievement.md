@@ -43,6 +43,8 @@ permalink: /achievement.html
 {: reversed="reversed"}
 
 # Papers in Refereed Conferences and Workshops
+56. Tomohiro Ogawa, Kango Yoshioka, Ken Fukuda, <u>Takeshi Morita</u>, Prediction of actions and places by the time series recognition from images with Multimodal LLM, Proceedings of the 2024 IEEE 18th International Conference on Semantic Computing (ICSC), International Knowledge Graph Reasoning Challenge 2024, pp. 294-300, DOI: [10.1109/ICSC59802.2024.00053](https://doi.org/10.1109/ICSC59802.2024.00053) (2024/2/8)
+55. Tsukasa Hirano, Kengo Ozaki, <u>Takeshi Morita</u>: Prediction of Actions and Objects through Video Analysis Using Stepwise Prompt, Proceedings of the 2024 IEEE 18th International Conference on Semantic Computing (ICSC), International Knowledge Graph Reasoning Challenge 2024, pp. 289-293, DOI: [10.1109/ICSC59802.2024.00052](https://doi.org/10.1109/ICSC59802.2024.00052) (2024/2/8)
 54. Yuki Sawamura, <u>Takeshi Morita</u>, Shusaku Egami, Takanori Ugai, Ken Fukuda, Japanese Pointer Network based Entity Linker for Wikidata, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/9)
 53. Jin Aoyama, <u>Takeshi Morita</u>, Takanori Ugai, Shusaku Egami, Ken Fukuda, Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/8)
 52. Alan Schalkwijk, Motoki Yatsu, <u>Takeshi Morita</u>, Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, [The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/schedule.html) (2021/12/6)

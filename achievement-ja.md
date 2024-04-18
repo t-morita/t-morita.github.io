@@ -92,6 +92,8 @@ permalink: /achievement-ja.html
 * 浅野歴，谷津元樹，<u>森田武史</u>，キャプション及び物体認識ラベルを用いた描画内容に即した駄洒落文の選択手法，画像ラボ，Vol.34，No.3，pp.59-65，[Webページ](https://www.nikko-pb.co.jp/products/detail.php?product_id=5491) (2023.3)
 
 # 国際会議論文
+56. Tomohiro Ogawa, Kango Yoshioka, Ken Fukuda, <u>Takeshi Morita</u>, Prediction of actions and places by the time series recognition from images with Multimodal LLM, Proceedings of the 2024 IEEE 18th International Conference on Semantic Computing (ICSC), International Knowledge Graph Reasoning Challenge 2024, pp. 294-300, DOI: [10.1109/ICSC59802.2024.00053](https://doi.org/10.1109/ICSC59802.2024.00053) (2024/2/8)
+55. Tsukasa Hirano, Kengo Ozaki, <u>Takeshi Morita</u>: Prediction of Actions and Objects through Video Analysis Using Stepwise Prompt, Proceedings of the 2024 IEEE 18th International Conference on Semantic Computing (ICSC), International Knowledge Graph Reasoning Challenge 2024, pp. 289-293, DOI: [10.1109/ICSC59802.2024.00052](https://doi.org/10.1109/ICSC59802.2024.00052) (2024/2/8)
 54. Yuki Sawamura, <u>Takeshi Morita</u>, Shusaku Egami, Takanori Ugai, Ken Fukuda, Japanese Pointer Network based Entity Linker for Wikidata, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/9)
 53. Jin Aoyama, <u>Takeshi Morita</u>, Takanori Ugai, Shusaku Egami, Ken Fukuda, Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome, Proceedings of the 12th International Joint Conference on Knowledge Graphs (IJCKG2023) (2023/12/8)
 52. Alan Schalkwijk, Motoki Yatsu, <u>Takeshi Morita</u>, Development of an Interactive Navigation System based on Household Ontology and Commonsense reasoning, [The 1st International Workshop on Knowledge Graph Reasoning for Explainable Artificial Intelligence](https://kgr4xai.ikgrc.org/schedule.html) (2021/12/6)
@@ -170,6 +172,7 @@ permalink: /achievement-ja.html
 # 研究会・全国大会・その他
 
 ## 研究会・全国大会 （第１著者）
+23. <u>森田武史</u>，福澤一吉，山口高平, "議論モデルに基づく知識推論と生成AIの統合に基づくAI議論パートナー"，情報処理学会 第86回全国大会，7B-03 (2024/3/17)
 22. <u>森田武史</u>, 高野拓海, 山口高平, "BRMSとWebサービスの連携による間接業務の効率化", 2020年度人工知能学会全国大会（第34回），4H2-GS-4-04，DOI: [10.11517/pjsai.JSAI2020.0_4H2GS404](https://doi.org/10.11517/pjsai.JSAI2020.0_4H2GS404) (2020/6/12)
 21. <u>森田武史</u>，柏木菜帆，萬礼応，鈴木秀男，山口高平，"PRINTEPSに基づくマルチロボット喫茶店の実践とサービス品質の評価"，2018年度人工知能学会全国大会（第32回），4L1-04，DOI: [10.11517/pjsai.JSAI2018.0_4L104](https://doi.org/10.11517/pjsai.JSAI2018.0_4L104) (2018/6/8)
 20. <u>森田武史</u>，柏木菜帆，萬礼応，鈴木秀男，山口高平，"マルチロボット喫茶店の実践とサービス品質の評価"，第13回情報システム学会全国大会・研究発表大会，S2-B.4 (2017/12/2)
@@ -195,10 +198,15 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 ## 研究会・全国大会 （共著）
-102. 青山仁，<u>森田武史</u>，鵜飼孝典，江上周作，福田賢一郎，LLMを活用した抽象的なタスク記述からのVirtualHomeのためのアクションスクリプト自動生成，人工知能学会第二種研究会 第61回セマンティックウェブとオントロジー研究会，SIG-SWO-061-10, DOI：[10.11517/jsaisigtwo.2023.SWO-061_10](https://doi.org/10.11517/jsaisigtwo.2023.SWO-061_10) (2023/11/25)．<!-- 2023/11/25 -->
-101. 澤村勇輝，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，大規模知識グラフを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，2023年度人工知能学会全国大会（第37回），4G2-OS-24c-03，DOI: [10.11517/pjsai.JSAI2023.0_4G2OS24c03](https://doi.org/10.11517/pjsai.JSAI2023.0_4G2OS24c03) (2023/6/9)．<!-- 2023/6/9 -->
-100. 青山仁，谷津元樹，<u>森田武史</u>，VirtualHomeを対象とした日常生活行動説明文からのアクションスクリプト自動生成，2023年度人工知能学会全国大会（第37回），3G5-OS-24b-02，DOI: [10.11517/pjsai.JSAI2023.0_3G5OS24b02](https://doi.org/10.11517/pjsai.JSAI2023.0_3G5OS24b02) (2023/6/8)．<!-- 2023/6/8 -->
-99. 浅野歴，濱道光希，牟耕，森俊人，矢野翔平，<u>森田武史</u>，知識グラフとGPTを用いた家庭内の危険行動の検知と説明，2023年度人工知能学会全国大会（第37回），3G1-OS-24a-03，DOI: [10.11517/pjsai.JSAI2023.0_3G1OS24a03](https://doi.org/10.11517/pjsai.JSAI2023.0_3G1OS24a03) (2023/6/8)．<!-- 2023/6/8 -->
+107. 浅野歴，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，マルチモーダル大規模言語モデルと画像キャプションに基づく描画内容に即した併置型駄洒落の認識，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-11，[DOI：10.11517/jsaisigtwo.2023.SWO-062_11](https://doi.org/10.11517/jsaisigtwo.2023.SWO-062_11) (2024/3/24)
+106. 森俊人，森田武史，鵜飼孝典，江上周作，福田賢一郎，DBpediaオントロジーとGPTに基づくWikipediaの赤リンクを用いたDBpediaの拡張，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-09，DOI：[10.11517/jsaisigtwo.2023.SWO-062_09](https://doi.org/10.11517/jsaisigtwo.2023.SWO-062_09) (2024/3/23)
+105. 三辻史哉，澤村勇輝，森田武史，Wikidataを対象とした大規模言語モデルに基づくエンティティリンキング，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-08，DOI：[10.11517/jsaisigtwo.2023.SWO-062_08](https://doi.org/10.11517/jsaisigtwo.2023.SWO-062_08) (2024/3/23)
+104. 穴口 史将，森田 武史，日常生活行動知識グラフとRAGに基づく家庭内危険行動の理由と根拠提示システム，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-05，DOI：[10.11517/jsaisigtwo.2023.SWO-062_05](https://doi.org/10.11517/jsaisigtwo.2023.SWO-062_05) (2024/3/23)
+103. 後藤颯志，浅野歴，森田武史，シーングラフとGPTに基づく画像に関連する併置型駄洒落生成，人工知能学会第二種研究会 第62回セマンティックウェブとオントロジー研究会，SIG-SWO-062-04，DOI：[10.11517/jsaisigtwo.2023.SWO-062_04](https://doi.org/10.11517/jsaisigtwo.2023.SWO-062_04) (2024/3/23)
+102. 青山仁，<u>森田武史</u>，鵜飼孝典，江上周作，福田賢一郎，LLMを活用した抽象的なタスク記述からのVirtualHomeのためのアクションスクリプト自動生成，人工知能学会第二種研究会 第61回セマンティックウェブとオントロジー研究会，SIG-SWO-061-10, DOI：[10.11517/jsaisigtwo.2023.SWO-061_10](https://doi.org/10.11517/jsaisigtwo.2023.SWO-061_10) (2023/11/25)
+101. 澤村勇輝，谷津元樹，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎，大規模知識グラフを対象とした英語エンティティリンキングモデルの日本語対応における課題の分析，2023年度人工知能学会全国大会（第37回），4G2-OS-24c-03，DOI: [10.11517/pjsai.JSAI2023.0_4G2OS24c03](https://doi.org/10.11517/pjsai.JSAI2023.0_4G2OS24c03) (2023/6/9)
+100. 青山仁，谷津元樹，<u>森田武史</u>，VirtualHomeを対象とした日常生活行動説明文からのアクションスクリプト自動生成，2023年度人工知能学会全国大会（第37回），3G5-OS-24b-02，DOI: [10.11517/pjsai.JSAI2023.0_3G5OS24b02](https://doi.org/10.11517/pjsai.JSAI2023.0_3G5OS24b02) (2023/6/8)
+99. 浅野歴，濱道光希，牟耕，森俊人，矢野翔平，<u>森田武史</u>，知識グラフとGPTを用いた家庭内の危険行動の検知と説明，2023年度人工知能学会全国大会（第37回），3G1-OS-24a-03，DOI: [10.11517/pjsai.JSAI2023.0_3G1OS24a03](https://doi.org/10.11517/pjsai.JSAI2023.0_3G1OS24a03) (2023/6/8)
 98. 貞誉志樹，谷津元樹，<u>森田武史</u>，常識的知識グラフに基づく理解容易性及びユーモア性を考慮した直喩表現生成，人工知能学会第2種研究会 第71回ことば工学研究会，(2023/3/18)
 97. 谷津元樹，稲垣ルイ，田羅間大晴，<u>森田武史</u>，汎用的言語理解フレームワークに基づく統合型駄洒落雑談対話システムの構築と評価，人工知能学会第2種研究会 第71回ことば工学研究会 (2023/3/18)
 96. 志方脩，谷津元樹，<u>森田武史</u>，常識的知識グラフ及び単語埋め込みを用いた重畳型駄洒落ユーモア認識，言語処理学会第29回年次大会，B9-3，[論文入手先](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B9-3.pdf) (2023/3/15)
