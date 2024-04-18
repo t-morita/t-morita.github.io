@@ -27,8 +27,8 @@ I am a professor at the College of Science and Engineering, Aoyama Gakuin Univer
 * <u>Takeshi Morita</u>, Noriaki Izumi, Naoki Fukuta, Takahira Yamaguchi, "A Graphical RDF-based Meta-Model Management Tool", IEICE Transactions on Information and Systems, Special Issue on Knowledge-Based Software Engineering, Vol. E89-D, No. 4, pp. 1368-1377 (2006)  DOI: [10.1093/ietisy/e89-d.4.1368](http://dx.doi.org/10.1093/ietisy/e89-d.4.1368)
 
 # Selected Software
-* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://doddle-owl.org/)
-* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](https://mrcube.org/)
+* [DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment - OWL extension)](https://doddle-owl.github.io/)
+* [MR<sup>3</sup> (Meta-Model Management based on RDFs Revision Reflection)](https://mr-3.github.io/)
 
 # Personal Links
 * [Google Scholar Citation - Takeshi Morita](https://scholar.google.com/citations?user=YJgqa5AAAAAJ&hl=en)
