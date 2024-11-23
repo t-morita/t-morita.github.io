@@ -54,7 +54,7 @@ permalink: /achievement-ja.html
 {: reversed="reversed"}
 
 # 学術論文
-23. * 澤村勇輝，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎：Wikidata を対象としたPointer Network に基づく
+23. 澤村勇輝，<u>森田武史</u>，江上周作，鵜飼孝典，福田賢一郎：Wikidata を対象としたPointer Network に基づく
 日本語エンティティリンキングモデルの構築と評価，人工知能学会論文誌，Vol.39，No.6，pp.C-O42_1-14，DOI：[10.1527/tjsai.39-6_C-O42](https://doi.org/10.1527/tjsai.39-6_C-O42) (2024.11).
 22. 吉兼拓生, 谷津元樹, <u>森田武史</u>, "知識グラフに基づく質問応答システムにおける論理形式パターンを用いた論理形式検索の改善"，人工知能学会論文誌，Vol.38，No.3，pp.I-M92_1-13，DOI：[10.1527/tjsai.38-3_I-M92](https://doi.org/10.1527/tjsai.38-3_I-M92) (2023.5).
 21. Alan Schalkwijk, Motoki Yatsu, and <u>Takeshi Morita</u>, "An Interactive Virtual Home Navigation System Based on Home Ontology and Commonsense Reasoning", Information 13, No. 6: 287, DOI: [10.3390/info13060287](https://doi.org/10.3390/info13060287) (2022.6)
